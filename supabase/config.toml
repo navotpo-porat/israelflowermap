@@ -1,0 +1,13 @@
+project_id = "uyceyucileahyywsqikr"
+
+[functions.identify-flower]
+verify_jwt = false
+
+[functions.get-sightings]
+verify_jwt = false
+
+[functions.proxy-image]
+verify_jwt = false
+
+[functions.notify-sighting]
+verify_jwt = false
