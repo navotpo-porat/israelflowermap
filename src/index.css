@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/earlyaccess/opensanshebrewcondensed.css');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+@layer base {
+  :root {
+    /* Dark premium palette */
+    --background: 0 0% 10%;
+    --foreground: 0 0% 95%;
+
+    --card: 0 0% 14%;
+    --card-foreground: 0 0% 95%;
+
+    --popover: 0 0% 14%;
+    --popover-foreground: 0 0% 95%;
+
+    /* Solid green primary #248C05 = hsl(109, 93%, 28%) */
+    --primary: 109 93% 28%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Dark secondary */
+    --secondary: 0 0% 18%;
+    --secondary-foreground: 0 0% 85%;
+
+    /* Muted dark */
+    --muted: 0 0% 18%;
+    --muted-foreground: 0 0% 60%;
+
+    /* Warm gold accent */
+    --accent: 45 90% 55%;
+    --accent-foreground: 0 0% 10%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 109 93% 28%;
+
+    --radius: 0.75rem;
+
+    /* Nature tokens - dark theme optimized */
+    --leaf: 109 93% 28%;
+    --leaf-light: 109 40% 15%;
+    --earth: 25 35% 50%;
+    --earth-light: 30 20% 18%;
+    --petal: 350 60% 60%;
+    --petal-light: 350 40% 20%;
+    --sky: 200 60% 50%;
+    --sky-light: 200 40% 18%;
+    --sun: 45 90% 55%;
+    --sun-light: 45 60% 18%;
+
+    /* Rainbow gradient - signature element */
+    --gradient-rainbow: linear-gradient(90deg, #E9BF1B 0%, #F4F3E8 25%, #DAB1D1 50%, #6463B1 75%, #DD3121 100%);
+    --gradient-nature: hsl(109 93% 28%);
+    --gradient-sunrise: linear-gradient(135deg, hsl(35 80% 55%) 0%, hsl(15 75% 55%) 100%);
+    --gradient-hero: linear-gradient(180deg, hsl(0 0% 10%) 0%, hsl(0 0% 12%) 100%);
+    --gradient-card: linear-gradient(145deg, hsl(0 0% 14%) 0%, hsl(0 0% 12%) 100%);
+
+    /* Shadows */
+    --shadow-soft: 0 2px 20px -4px hsl(0 0% 0% / 0.4);
+    --shadow-medium: 0 8px 30px -8px hsl(0 0% 0% / 0.5);
+    --shadow-nature: 0 10px 40px -10px hsl(109 93% 28% / 0.3);
+
+    --sidebar-background: 0 0% 12%;
+    --sidebar-foreground: 0 0% 90%;
+    --sidebar-primary: 109 93% 28%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 16%;
+    --sidebar-accent-foreground: 0 0% 90%;
+    --sidebar-border: 0 0% 18%;
+    --sidebar-ring: 109 93% 28%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Open Sans Hebrew Condensed', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans Hebrew Condensed', system-ui, sans-serif;
+    font-weight: 700;
+  }
+
+  /* RTL Support */
+  [dir="rtl"] {
+    font-family: 'Open Sans Hebrew Condensed', system-ui, sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-gradient-nature {
+    color: hsl(109 93% 28%);
+  }
+
+  .text-gradient-sunrise {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-sunrise);
+  }
+
+  .text-gradient-rainbow {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-rainbow);
+  }
+
+  .bg-gradient-nature {
+    background: hsl(109 93% 28%);
+  }
+
+  .bg-gradient-sunrise {
+    background-image: var(--gradient-sunrise);
+  }
+
+  .bg-gradient-hero {
+    background-image: var(--gradient-hero);
+  }
+
+  .bg-gradient-card {
+    background-image: var(--gradient-card);
+  }
+
+  .bg-gradient-rainbow {
+    background-image: var(--gradient-rainbow);
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .shadow-medium {
+    box-shadow: var(--shadow-medium);
+  }
+
+  .shadow-nature {
+    box-shadow: var(--shadow-nature);
+  }
+
+  /* Organic shapes */
+  .blob-shape {
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  }
+
+  .petal-shape {
+    border-radius: 80% 0 55% 50% / 55% 0 80% 50%;
+  }
+
+  /* Nature animations */
+  @keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+  }
+
+  @keyframes sway {
+    0%, 100% { transform: rotate(-2deg); }
+    50% { transform: rotate(2deg); }
+  }
+
+  @keyframes bloom {
+    0% { transform: scale(0.8); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-sway {
+    animation: sway 4s ease-in-out infinite;
+  }
+
+  .animate-bloom {
+    animation: bloom 0.5s ease-out forwards;
+  }
+}
