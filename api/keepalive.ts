@@ -18,8 +18,6 @@ export async function GET(): Promise<Response> {
       body: JSON.stringify({ prefix: '', limit: 1 }),
     });
     results.storage = storage.status;
-    const rest = await fetch(`${url}/rest/v1/`, { headers });
-    results.rest = rest.status;
   } catch (error) {
     results.error = (error as Error).message;
   }
