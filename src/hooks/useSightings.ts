@@ -1,9 +1,27 @@
 import { useState, useEffect } from 'react';
 import { sightingsData, extraSightings, type Sighting } from '@/data/sightings';
 import { supabase } from '@/integrations/supabase/client';
+import snapshot from '@/data/sightings-snapshot.json';
+
+const PROXY_BASE_URL = '/api/proxy-image';
+
+function processSightings(list: Sighting[]): Sighting[] {
+  return list.map((s) => ({
+    ...s,
+    image: s.image ? getProxiedUrl(s.image, PROXY_BASE_URL) : undefined,
+    images: s.images?.map((img: string) => getProxiedUrl(img, PROXY_BASE_URL)),
+  }));
+}
+
+// Daily snapshot of the Google map (updated by a GitHub Action); falls back to
+// the hand-written list only if no snapshot exists yet.
+const initialSightings: Sighting[] =
+  Array.isArray(snapshot.data) && snapshot.data.length > 0
+    ? processSightings(snapshot.data as Sighting[])
+    : sightingsData;
 
 export function useSightings() {
-  const [sightings, setSightings] = useState<Sighting[]>([...sightingsData, ...extraSightings]);
+  const [sightings, setSightings] = useState<Sighting[]>([...initialSightings, ...extraSightings]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -44,12 +62,7 @@ export function useSightings() {
         if (fnError) throw fnError;
         
         if (data?.success && Array.isArray(data.data) && data.data.length > 0) {
-          const proxyBaseUrl = '/api/proxy-image';
-          const processed = data.data.map((s: Sighting) => ({
-            ...s,
-            image: s.image ? getProxiedUrl(s.image, proxyBaseUrl) : undefined,
-            images: s.images?.map((img: string) => getProxiedUrl(img, proxyBaseUrl)),
-          }));
+          const processed = processSightings(data.data);
           setSightings([...processed, ...extraSightings]);
           setError(null);
         } else {

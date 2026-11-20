@@ -1,5 +1,8 @@
 {
   "rewrites": [
     { "source": "/((?!api/).*)", "destination": "/" }
+  ],
+  "crons": [
+    { "path": "/api/keepalive", "schedule": "17 4 * * *" }
   ]
 }
