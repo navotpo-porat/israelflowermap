@@ -303,6 +303,10 @@ async function handler(req: Request): Promise<Response> {
     const placemarkCount = (kmlText.match(/<Placemark>/g) || []).length;
     const peonyCount = (kmlText.match(/אדמונית/g) || []).length;
     console.log(`KML size: ${kmlText.length} bytes, raw placemarks: ${placemarkCount}, peony mentions: ${peonyCount}`);
+    // Google My Maps exports every layer, including hidden "Directions from ..."
+    // route layers whose waypoints are named after roads ("Unnamed Road, Israel").
+    // Those aren't flower sightings, so drop those layers before parsing.
+    kmlText = kmlText.replace(/<Folder>\s*<name>(?:<!\[CDATA\[)?\s*Directions from[\s\S]*?<\/Folder>/g, '');
     const sightings = parseKML(kmlText);
     console.log(`Parsed ${sightings.length} sightings from KML`);
     if (sightings.length > 0) {
