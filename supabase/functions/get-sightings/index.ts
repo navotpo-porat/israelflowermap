@@ -21,6 +21,7 @@ const speciesMap: Record<string, string> = {
   'אירוסים': 'Irises',
   'שושן צחור': 'White Lily',
   'סתוונית': 'Autumn Crocus',
+  'סתווניות': 'Autumn Crocus',
   'חצבים': 'Sea Squill',
   'כרכום': 'Crocus',
 };
@@ -40,6 +41,7 @@ const speciesSeasons: Record<string, { he: string; en: string }> = {
   'אירוסים': { he: 'פברואר–מרץ', en: 'February–March' },
   'שושן צחור': { he: 'אפריל–מאי', en: 'April–May' },
   'סתוונית': { he: 'אוקטובר–נובמבר', en: 'October–November' },
+  'סתווניות': { he: 'אוקטובר–נובמבר', en: 'October–November' },
   'חצבים': { he: 'אוגוסט–ספטמבר', en: 'August–September' },
   'כרכום': { he: 'נובמבר–דצמבר', en: 'November–December' },
 };
