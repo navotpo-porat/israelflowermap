@@ -1,1 +1,1739 @@
-{"updatedAt":null,"data":[]}
+{
+  "updatedAt": "2026-11-21T10:15:09Z",
+  "data": [
+    {
+      "id": 1,
+      "lat": 32.6841875,
+      "lng": 35.3843125,
+      "species": {
+        "he": "חלמוניות",
+        "en": "Sternbergia"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "נובמבר–דצמבר",
+        "en": "November–December"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh5QyJoX9KfCwMplic5S-5oJFhbgLJQvnaAlPitlboaZnLPaexB7zIpxmmq9n1jHe5IjT3tKA400z_yXtxZUeg4rNbUa512-hmey3N7w7sDDUdlKFI8rjJ79OcdVkB0-tWr0mxcwqwAqs7bQ9N9RU8Oqkv2mp6OqQVrrWMy6bz_X40Cxr3Cc4jz66OMOkJCFw4doZ-dyK_nEdV3AQKLwLu_7oLnkobmUOJFTjkGOTNTctAmXwWnAexV1U4?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh5QyJoX9KfCwMplic5S-5oJFhbgLJQvnaAlPitlboaZnLPaexB7zIpxmmq9n1jHe5IjT3tKA400z_yXtxZUeg4rNbUa512-hmey3N7w7sDDUdlKFI8rjJ79OcdVkB0-tWr0mxcwqwAqs7bQ9N9RU8Oqkv2mp6OqQVrrWMy6bz_X40Cxr3Cc4jz66OMOkJCFw4doZ-dyK_nEdV3AQKLwLu_7oLnkobmUOJFTjkGOTNTctAmXwWnAexV1U4?fife=s16383"
+      ],
+      "description": "פריחה: נובמבר-דצמבר\nשביל החלמוניות בהר תבור"
+    },
+    {
+      "id": 2,
+      "lat": 31.3713125,
+      "lng": 34.8253125,
+      "species": {
+        "he": "חלמניות",
+        "en": "Sternbergia"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "נובמבר–דצמבר",
+        "en": "November–December"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZj9tsdATXnnRpyGt2j8OhogBE3vBROuCnicLYg1JEpw5ZLr5OtnB-j7ObllG10K2s7OTb8_wKuPpCG7lJsYX-Ceqibe8xrIX7EmiSeckFSdM_7l5hIr4Gmuv2-aQRvcmXhd8P6RGCkEhQQsOJt95Tc_dK3HbyRG_zWnIPWNqggD0K8HU7XJS2NG-MoLl482AQ8E_MC5U_YPFkta-npQv_uWYD16EjOtEalvlb8HxyC9WcBKT1Bbupowyy0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZj9tsdATXnnRpyGt2j8OhogBE3vBROuCnicLYg1JEpw5ZLr5OtnB-j7ObllG10K2s7OTb8_wKuPpCG7lJsYX-Ceqibe8xrIX7EmiSeckFSdM_7l5hIr4Gmuv2-aQRvcmXhd8P6RGCkEhQQsOJt95Tc_dK3HbyRG_zWnIPWNqggD0K8HU7XJS2NG-MoLl482AQ8E_MC5U_YPFkta-npQv_uWYD16EjOtEalvlb8HxyC9WcBKT1Bbupowyy0?fife=s16383"
+      ],
+      "description": "פריחה: נובמבר-דצמבר\nפריחת חלמניות"
+    },
+    {
+      "id": 3,
+      "lat": 32.9031842,
+      "lng": 35.1631248,
+      "species": {
+        "he": "סתוונית",
+        "en": "Autumn Crocus"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אוקטובר–נובמבר",
+        "en": "October–November"
+      },
+      "description": "פריחה: אוקטובר-דצמבר\nהגבעה הקטנה קיבוץ יסעור"
+    },
+    {
+      "id": 4,
+      "lat": 32.5397375,
+      "lng": 34.9172344,
+      "species": {
+        "he": "סתוונית",
+        "en": "Autumn Crocus"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "אוקטובר–נובמבר",
+        "en": "October–November"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiAyJmGOfps1iRydzpblqmWVRepoR3tapU8Lw2OoSfzCNC9MTmttAUZw7ea0TOLTcO1o-VX_lxm8idC3tLXObZGJh9nm6F31k6Tu3wtqOUSS_fNK54Ri2Tu94KorwomlfxTCA2sGrhJ44NH_dvv9VFwFp5I8N2BV8kEtOejgaFyOE8L3E-xSj-1Fcxq5H1P7h6IGwzoBLqKeDE4aEnVa8K96bd8KcMDknB5GFbWX3A1aXZAut0JMZC8xD0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiAyJmGOfps1iRydzpblqmWVRepoR3tapU8Lw2OoSfzCNC9MTmttAUZw7ea0TOLTcO1o-VX_lxm8idC3tLXObZGJh9nm6F31k6Tu3wtqOUSS_fNK54Ri2Tu94KorwomlfxTCA2sGrhJ44NH_dvv9VFwFp5I8N2BV8kEtOejgaFyOE8L3E-xSj-1Fcxq5H1P7h6IGwzoBLqKeDE4aEnVa8K96bd8KcMDknB5GFbWX3A1aXZAut0JMZC8xD0?fife=s16383"
+      ],
+      "description": "פריחה: אוקטובר-דצמבר\nגבעת האשחרים"
+    },
+    {
+      "id": 5,
+      "lat": 32.5721311,
+      "lng": 34.9194568,
+      "species": {
+        "he": "צבעוני",
+        "en": "Tulip"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "אפריל–מאי",
+        "en": "April–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhEvteJJMvvde6YQrCtaaujatal4_t_H4IlUVteW7ogyvga0xXWyCh2JcmgV0WEOuBw7uperpjzJEAUuujqtdWdek5R0ud055WPE2fOodkiqhGoAai_toXBKlWgtKcfxEAM80ZID445WUA0lWRJya5RUPH_7Pl1Z-a9cVyoiuuqs0MQMYWSmlgpJTiw_wsn5UIbGqda1Slu7c0lL8z5LpVrbpbw3D1OoKDmI_ZaQbTlUmkeeyRFLGRDvJg?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhEvteJJMvvde6YQrCtaaujatal4_t_H4IlUVteW7ogyvga0xXWyCh2JcmgV0WEOuBw7uperpjzJEAUuujqtdWdek5R0ud055WPE2fOodkiqhGoAai_toXBKlWgtKcfxEAM80ZID445WUA0lWRJya5RUPH_7Pl1Z-a9cVyoiuuqs0MQMYWSmlgpJTiw_wsn5UIbGqda1Slu7c0lL8z5LpVrbpbw3D1OoKDmI_ZaQbTlUmkeeyRFLGRDvJg?fife=s16383"
+      ],
+      "description": "פריחה: אפריל–מאי\n גבעת הצבעונים של מעגן מיכאל"
+    },
+    {
+      "id": 6,
+      "lat": 32.5672337,
+      "lng": 34.918953,
+      "species": {
+        "he": "צבעוני",
+        "en": "Tulip"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "אפריל–מאי",
+        "en": "April–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgoMM8ls6RorO601UBIU5sugfNsezUpTEJoPDkWBqsJ-vwBSQhD-LlAgqMG2WJmGom0md7mnKXlF-c90c8NszTwJYtLCXkz61Y3kIe-tH-VSjZHi1bUgiBXU94neeQQtzZSmZ75cjreRtSgix7hJUAtzKHcIM3iA5f7EJlbFSbbXD00PRsC0242Iz9etR2wrY1z3LnLikl_367MZ723CO6qAyYE9dIW4LbY1rNz7Jnb5hIYj4aRxBRjPHY?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgoMM8ls6RorO601UBIU5sugfNsezUpTEJoPDkWBqsJ-vwBSQhD-LlAgqMG2WJmGom0md7mnKXlF-c90c8NszTwJYtLCXkz61Y3kIe-tH-VSjZHi1bUgiBXU94neeQQtzZSmZ75cjreRtSgix7hJUAtzKHcIM3iA5f7EJlbFSbbXD00PRsC0242Iz9etR2wrY1z3LnLikl_367MZ723CO6qAyYE9dIW4LbY1rNz7Jnb5hIYj4aRxBRjPHY?fife=s16383"
+      ],
+      "description": "פריחה: אפריל–מאי\nגבעת הצבעונים של מעגן מיכאל"
+    },
+    {
+      "id": 7,
+      "lat": 32.8348125,
+      "lng": 35.7970625,
+      "species": {
+        "he": "נרקיסים",
+        "en": "Narcissus"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "נובמבר–פברואר",
+        "en": "November–February"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg5jJaZFIKNQ5_FRPN9-BcR7IyR0_zwGkq8AR1oTpRxZw2iBS6VaIzzUSo7nO_UVCuY2Lf1_Qrm7ibLIU3ok-YSi9X72TQZfFw71lltPsA16woHsPhKUxXNfNxqYjheAd8zj1XgyXU9uyQcsknC8CZPwfmt0NNQah7FNqaaRu1SECEZgwbwY-poCtfc_WjR00Gp4X67zTiAHkaLrexsRVrNnV5jI0jzHYdW1O-wDH7RXAlTysB4e9u-ITQ?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg5jJaZFIKNQ5_FRPN9-BcR7IyR0_zwGkq8AR1oTpRxZw2iBS6VaIzzUSo7nO_UVCuY2Lf1_Qrm7ibLIU3ok-YSi9X72TQZfFw71lltPsA16woHsPhKUxXNfNxqYjheAd8zj1XgyXU9uyQcsknC8CZPwfmt0NNQah7FNqaaRu1SECEZgwbwY-poCtfc_WjR00Gp4X67zTiAHkaLrexsRVrNnV5jI0jzHYdW1O-wDH7RXAlTysB4e9u-ITQ?fife=s16383"
+      ],
+      "description": "נובמבר-פברואר"
+    },
+    {
+      "id": 8,
+      "lat": 32.525278,
+      "lng": 34.9204016,
+      "species": {
+        "he": "רקפות, פרגים, נרקיסים",
+        "en": "Cyclamen, Poppies & Narcissus"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgXjMr2c0VB4xC4zeIAI16KTVGXM5FYjsB-hd3n3HTw6BpN2lpwP1i2AminCHaiUHt4FFk2JmOigEyDZANSn5y9htepqNm-6qOVNLS82m-dRcQghf_zGYkjm5Ja30_CpL2MBPIxDFNbSoMU1Zys6OuSGhXfWQ3ATZokCBYg-Iv7T7gPU2vmpEo9Bw0VVI0wHjE_-9gCOdmJUrbncQyb9ddrtgU3eCb0kKUWNVTfqVib3O3zfW4iqS6pLeE?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgXjMr2c0VB4xC4zeIAI16KTVGXM5FYjsB-hd3n3HTw6BpN2lpwP1i2AminCHaiUHt4FFk2JmOigEyDZANSn5y9htepqNm-6qOVNLS82m-dRcQghf_zGYkjm5Ja30_CpL2MBPIxDFNbSoMU1Zys6OuSGhXfWQ3ATZokCBYg-Iv7T7gPU2vmpEo9Bw0VVI0wHjE_-9gCOdmJUrbncQyb9ddrtgU3eCb0kKUWNVTfqVib3O3zfW4iqS6pLeE?fife=s16383"
+      ],
+      "description": "פריחה: נובמבר-פברואר\nחורבת המלח"
+    },
+    {
+      "id": 9,
+      "lat": 32.2214375,
+      "lng": 34.9998125,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "מרכז הארץ",
+        "en": "Central Israel"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgnaWBTHXXle8Il6vllI_Qft451nfS8ksg43FLrkebIf7FYCJuhfKSPScsYOk8BWDO4jmETSFXm0NOBxhl6Xwt7zHijXYEXF9vYBXb9mrTOUM6rj1LHo5ZJjemAqlvt7VmCMV0Jb5FxuV98hQD9LViOpCm9NxK6PD9EE31E3mrpy0jcjy6XbvCb6JQ1qg9u1HVqPK4rk-B_d17QD8VDQUuqfmCb0O7BuwChDaG5TR4BzoB0LXvq2yTBFiI?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgnaWBTHXXle8Il6vllI_Qft451nfS8ksg43FLrkebIf7FYCJuhfKSPScsYOk8BWDO4jmETSFXm0NOBxhl6Xwt7zHijXYEXF9vYBXb9mrTOUM6rj1LHo5ZJjemAqlvt7VmCMV0Jb5FxuV98hQD9LViOpCm9NxK6PD9EE31E3mrpy0jcjy6XbvCb6JQ1qg9u1HVqPK4rk-B_d17QD8VDQUuqfmCb0O7BuwChDaG5TR4BzoB0LXvq2yTBFiI?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nיער הרקפות"
+    },
+    {
+      "id": 10,
+      "lat": 32.5605625,
+      "lng": 35.0845625,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZieKuaGuftHjQHJgcSvBxL8uYI6O9Eod1eVNoQjsmug5qS026OQgaMiVUGvZSs5XKeEVFMTXPcUvH8lgxMM0ie-ch5GA_hTRk1Ml-Kp4pE4tUUoo7pHHR_Y1sEIJjW5ZJzChLty5B2gAIXt2E6U2x_dTkW7E3ShZ7rH7hYSPxRO1JdSqKZg0rf9hBwAt1PQ4TWsC_6Si5a0D2gweFP91OAsZcvnV3p1cDA_cWfHZhuGu2h8tDFczeP9HMk?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZieKuaGuftHjQHJgcSvBxL8uYI6O9Eod1eVNoQjsmug5qS026OQgaMiVUGvZSs5XKeEVFMTXPcUvH8lgxMM0ie-ch5GA_hTRk1Ml-Kp4pE4tUUoo7pHHR_Y1sEIJjW5ZJzChLty5B2gAIXt2E6U2x_dTkW7E3ShZ7rH7hYSPxRO1JdSqKZg0rf9hBwAt1PQ4TWsC_6Si5a0D2gweFP91OAsZcvnV3p1cDA_cWfHZhuGu2h8tDFczeP9HMk?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nגבעת הרקפות"
+    },
+    {
+      "id": 11,
+      "lat": 31.7711875,
+      "lng": 35.0291875,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg-AGOgRMBKHr5yo8mejH6BT8kWnxEGTKd5zM0VaATo-cPfPliStPMc7vCaeXE4I6CGOwGuhiDs2m9OT2vFXhLm5_BedhBU_Lw1rkQCSLM9p_325e8-GKEm0OeCsloI4eFFWkrYEKeySG8I6NUuSzYsnDZpcys_wczeAfsdM8QGdzJOdMa3cAVU6FeNtYKI9g_53ECE7_WKPLEYDgEEljLi7IPzhD74uEpAIgQ2qJlgQqTa2MVPg3jj_5k?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg-AGOgRMBKHr5yo8mejH6BT8kWnxEGTKd5zM0VaATo-cPfPliStPMc7vCaeXE4I6CGOwGuhiDs2m9OT2vFXhLm5_BedhBU_Lw1rkQCSLM9p_325e8-GKEm0OeCsloI4eFFWkrYEKeySG8I6NUuSzYsnDZpcys_wczeAfsdM8QGdzJOdMa3cAVU6FeNtYKI9g_53ECE7_WKPLEYDgEEljLi7IPzhD74uEpAIgQ2qJlgQqTa2MVPg3jj_5k?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nיער יהדות תימן"
+    },
+    {
+      "id": 12,
+      "lat": 31.7503125,
+      "lng": 34.9754375,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi1YC5_vNDf4L2prCBL2SjUTxGE9lFrRK-uKZ8o5nhF0SpZvOVE0L4n72QsqFYoTo1m2dMqlIaqfrZaAfCKx9kmdNtKMgFPTaZ4Nk9gBN7_1kCNTuQtkZgXTsgoenpHdPTEYvBvBLztuDQe6r7wgXrolgHrInbpWhwD6-TgF5vo4QgiNS7xSvgIYDV7cBFc-HY8qHSoief1IXyQtasMccAripXV4BIhtjUH_Ogv3cc15LJzmVeC8uANbfU?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi1YC5_vNDf4L2prCBL2SjUTxGE9lFrRK-uKZ8o5nhF0SpZvOVE0L4n72QsqFYoTo1m2dMqlIaqfrZaAfCKx9kmdNtKMgFPTaZ4Nk9gBN7_1kCNTuQtkZgXTsgoenpHdPTEYvBvBLztuDQe6r7wgXrolgHrInbpWhwD6-TgF5vo4QgiNS7xSvgIYDV7cBFc-HY8qHSoief1IXyQtasMccAripXV4BIhtjUH_Ogv3cc15LJzmVeC8uANbfU?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ"
+    },
+    {
+      "id": 13,
+      "lat": 31.4365625,
+      "lng": 34.4710625,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjpW1jCUuzMgw9OW_CODcmFCj34EPXa9spsgapW72EKehTEHqOTj1gYXAAWeqJXAnDYC7SM_Cisx9xZxacOIFNeUYeRl-dfEY9rWaLGghPZs2-ifo2wfyyDuVxXA1Y9yuKbvbKiGv0l36FsYJLymVZGaJkLHc58V5nnOJwD5R9YqjikE-lBUZJKn6ZaOptEhOLKlFQQ0nE2OoU8iPkeb2XylkQ8C1Kheb8tdlhdNkERHqwvFmSR3IqUrc4?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjpW1jCUuzMgw9OW_CODcmFCj34EPXa9spsgapW72EKehTEHqOTj1gYXAAWeqJXAnDYC7SM_Cisx9xZxacOIFNeUYeRl-dfEY9rWaLGghPZs2-ifo2wfyyDuVxXA1Y9yuKbvbKiGv0l36FsYJLymVZGaJkLHc58V5nnOJwD5R9YqjikE-lBUZJKn6ZaOptEhOLKlFQQ0nE2OoU8iPkeb2XylkQ8C1Kheb8tdlhdNkERHqwvFmSR3IqUrc4?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nיער בארי"
+    },
+    {
+      "id": 14,
+      "lat": 32.3310047,
+      "lng": 34.8740367,
+      "species": {
+        "he": "יקינטון",
+        "en": "Hyacinth"
+      },
+      "location": {
+        "he": "מרכז הארץ",
+        "en": "Central Israel"
+      },
+      "season": {
+        "he": "יולי",
+        "en": "July"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhddfA8ZYd-BYCxvCkkqYqtSElFdf7pr3bshLF7TekMPwFVI9LtOIm3xK1DB4DS5quiukmuxzMGGgZlzYTUcwlEBLMlevgdkbqKOgD2GqevQHY9nfQ3WRaxHCvv8CKZHNv-_ucevpczNIA_WyXXJY4vRDual6-Nb4yT1BGnNW4jCva6sMSJA36IdRKBhg5J2jppFczULQxfnVSbGgagMpNcPLejhGI7H4jloCaDLHFRxEchReElgcF4adA?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhddfA8ZYd-BYCxvCkkqYqtSElFdf7pr3bshLF7TekMPwFVI9LtOIm3xK1DB4DS5quiukmuxzMGGgZlzYTUcwlEBLMlevgdkbqKOgD2GqevQHY9nfQ3WRaxHCvv8CKZHNv-_ucevpczNIA_WyXXJY4vRDual6-Nb4yT1BGnNW4jCva6sMSJA36IdRKBhg5J2jppFczULQxfnVSbGgagMpNcPLejhGI7H4jloCaDLHFRxEchReElgcF4adA?fife=s16383"
+      ],
+      "description": "בריכת היקינטון בבית יצחק\nפריחה: יוני-ספטמבר"
+    },
+    {
+      "id": 15,
+      "lat": 32.6024375,
+      "lng": 35.0685625,
+      "species": {
+        "he": "כלניות, תורמוסים",
+        "en": "Anemones & Lupines"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg5xLPLVvagCMnLqTAt6AXJfJGk2XdrKf25wYNtAKuSJ3AXzVlPDBrAvw7ZQdBNsJpMRtuy2Oqa7M88hgHBARMuOqqSaF-m_jn1nueHEPl9iYtWP8v7VhGkLDh50ATPmYF4q_dR3izx7c5V93_FsbMQx5Vf8jPzCLMmaLmbIXOlfHpOZni1BErNrF91N-IgscEmjpv6IYTmP-zVhzDXraGrSu8h9wXTvXLyCifnOWUKUCI1ahflySl2o0Q?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg5xLPLVvagCMnLqTAt6AXJfJGk2XdrKf25wYNtAKuSJ3AXzVlPDBrAvw7ZQdBNsJpMRtuy2Oqa7M88hgHBARMuOqqSaF-m_jn1nueHEPl9iYtWP8v7VhGkLDh50ATPmYF4q_dR3izx7c5V93_FsbMQx5Vf8jPzCLMmaLmbIXOlfHpOZni1BErNrF91N-IgscEmjpv6IYTmP-zVhzDXraGrSu8h9wXTvXLyCifnOWUKUCI1ahflySl2o0Q?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nפינת הנצחה לזיכרה של נילי קאפמן ז״ל"
+    },
+    {
+      "id": 16,
+      "lat": 31.6805625,
+      "lng": 34.9774375,
+      "species": {
+        "he": "תורמוסים",
+        "en": "Lupines"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "פברואר–מרץ",
+        "en": "February–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZis6qdubyogV2RANbUmCSpnpXJMYEZQjVZ7Z88Dm-QrFA5FO5lr13CjOF9puyC0v2OXw2WDO_G2Cm4NfqS_c0TnjDF-Hkb9zXpxAU-CsKkSvpTjh6GD8Tqw4QK_VwvCO2LTZMVMJRFQ2dzIl1IJYLA1fIZ1PJoIqZzVfvclX07-AEHIrqwiw2j8Ch49_vkj6MoqhgswFaD7-hnGHrxlX4myJriVbpRVQRQkmQBjsTLU-Ero-0z5huXi9b4?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZis6qdubyogV2RANbUmCSpnpXJMYEZQjVZ7Z88Dm-QrFA5FO5lr13CjOF9puyC0v2OXw2WDO_G2Cm4NfqS_c0TnjDF-Hkb9zXpxAU-CsKkSvpTjh6GD8Tqw4QK_VwvCO2LTZMVMJRFQ2dzIl1IJYLA1fIZ1PJoIqZzVfvclX07-AEHIrqwiw2j8Ch49_vkj6MoqhgswFaD7-hnGHrxlX4myJriVbpRVQRQkmQBjsTLU-Ero-0z5huXi9b4?fife=s16383"
+      ],
+      "description": "פריחה: פברואר-מרץ"
+    },
+    {
+      "id": 17,
+      "lat": 31.7694375,
+      "lng": 35.1119375,
+      "species": {
+        "he": "פרגים, רקפות, חרציות, אירוסים",
+        "en": "Poppies, Cyclamen, חרציות & Irises"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjs24ZgFUY6mgA3eMiJjPqOlcnUOE_oJUSDn9Qzjfm_JMifW3RteOayYRBPGZYvEk0Tmm4CmSJk3vpv78ApGI1iz-nmn1xDds4eSIWC4TZavhRwukETjFDyQV60H4B_aNw2jpEEfTQUb36nyX6xG4mYZ0gQk0rxIZqfJfvzJum3PlPt1pwZ9yvzXTgY5YmjpBie1EwsgLxFwVYgjUDgmPWsTLrj00cIoXz8Axdi6NJoeGot7dww7GeMzDk?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjs24ZgFUY6mgA3eMiJjPqOlcnUOE_oJUSDn9Qzjfm_JMifW3RteOayYRBPGZYvEk0Tmm4CmSJk3vpv78ApGI1iz-nmn1xDds4eSIWC4TZavhRwukETjFDyQV60H4B_aNw2jpEEfTQUb36nyX6xG4mYZ0gQk0rxIZqfJfvzJum3PlPt1pwZ9yvzXTgY5YmjpBie1EwsgLxFwVYgjUDgmPWsTLrj00cIoXz8Axdi6NJoeGot7dww7GeMzDk?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nפריחות מרשימות בעונה"
+    },
+    {
+      "id": 18,
+      "lat": 31.5909375,
+      "lng": 34.8191875,
+      "species": {
+        "he": "שקדיות",
+        "en": "Almond Blossoms"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–פברואר",
+        "en": "January–February"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZilc6ovAdnJ6cgw0MMNCAsEdAcfzLxWlD7BVyRgjrH6AOWdXf1FcamT7_tlGEk1j4cHuPaHjQVkTOK_q8zj0H7sFV6c4bZLtVe98RLGdL2p19wHM9q_5ssQyHGHxRghuts8u_-fodvvI731RMQWV3Iq9aDdGjrjmUyxulv6MMea2dGAcnZgGZzOT6lP8SOBcxQ-df4fARvHXn-AN1uvjgf0naAqq_DWY6cAnN6oqzTRBEQD_-oXAqcilzM?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZilc6ovAdnJ6cgw0MMNCAsEdAcfzLxWlD7BVyRgjrH6AOWdXf1FcamT7_tlGEk1j4cHuPaHjQVkTOK_q8zj0H7sFV6c4bZLtVe98RLGdL2p19wHM9q_5ssQyHGHxRghuts8u_-fodvvI731RMQWV3Iq9aDdGjrjmUyxulv6MMea2dGAcnZgGZzOT6lP8SOBcxQ-df4fARvHXn-AN1uvjgf0naAqq_DWY6cAnN6oqzTRBEQD_-oXAqcilzM?fife=s16383"
+      ],
+      "description": "פריחה: ינואר - פברואר\nפריחת שקדיות"
+    },
+    {
+      "id": 19,
+      "lat": 32.0416692,
+      "lng": 34.9589393,
+      "species": {
+        "he": "כלניות, פרגים, רקפות",
+        "en": "Anemones, Poppies & Cyclamen"
+      },
+      "location": {
+        "he": "מרכז הארץ",
+        "en": "Central Israel"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgFosA5LrbPwZU80FfvMBzL4kDWXfrTe6xAZGvk29blJkV0um1lkkP-K6mqz6hN9Tu55ajOCLYDLpy--rrNKHuPewvoF9MtL7ju87YDjlfCugkoDg1ANz_4UNMdvNWYR-Bm94pArqD77oSqavqKr6z7hjY-kL1-au4JGMwCSoxp3BOVMZFrrtiuAzufW0w3wqEtXqys_ovMwgLnKDSIxVH2GIIVgwTftUyT3Fq0ap6yO7B8b4zqedUrFGs?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgFosA5LrbPwZU80FfvMBzL4kDWXfrTe6xAZGvk29blJkV0um1lkkP-K6mqz6hN9Tu55ajOCLYDLpy--rrNKHuPewvoF9MtL7ju87YDjlfCugkoDg1ANz_4UNMdvNWYR-Bm94pArqD77oSqavqKr6z7hjY-kL1-au4JGMwCSoxp3BOVMZFrrtiuAzufW0w3wqEtXqys_ovMwgLnKDSIxVH2GIIVgwTftUyT3Fq0ap6yO7B8b4zqedUrFGs?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nפריחות כלניות פרגים רקפות"
+    },
+    {
+      "id": 20,
+      "lat": 31.9310625,
+      "lng": 34.7831406,
+      "species": {
+        "he": "אירוסים",
+        "en": "Irises"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "פברואר–מרץ",
+        "en": "February–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhDQJ1lmhyqTtuaAGAzLMSpEP3j5Vq41saqR9V8UfbsAKVQ6FBFbP98FYg3-0ZDsqj_vC7A514Ku5_Jxg74t79jsZRKbj6tX4BEb5XKXhBsug2wgWmL9XxAOBz0zBJArZcjg6fW0GCpthTWnMXqyTJ0Xk6KuhCBchU_LA-YlZQVnuM18vAoHW2WZxjcZmcHeUnQZoMRWt1Vsk77CZ_GJpqODxKxkgD97K-pw8ubSgLphzKKygPSgDBM6BE?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhDQJ1lmhyqTtuaAGAzLMSpEP3j5Vq41saqR9V8UfbsAKVQ6FBFbP98FYg3-0ZDsqj_vC7A514Ku5_Jxg74t79jsZRKbj6tX4BEb5XKXhBsug2wgWmL9XxAOBz0zBJArZcjg6fW0GCpthTWnMXqyTJ0Xk6KuhCBchU_LA-YlZQVnuM18vAoHW2WZxjcZmcHeUnQZoMRWt1Vsk77CZ_GJpqODxKxkgD97K-pw8ubSgLphzKKygPSgDBM6BE?fife=s16383"
+      ],
+      "description": "פריחה: פברואר - מרץ\nפריחת אירוסים - נס ציונה"
+    },
+    {
+      "id": 21,
+      "lat": 31.5653125,
+      "lng": 34.9311875,
+      "species": {
+        "he": "תורמוסים",
+        "en": "Lupines"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "פברואר–מרץ",
+        "en": "February–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZj33EYX9ggK7NkpawlZzCbbT-USdrwFFaB8iysr3YaFc8kHp9Ky8jzi1-QwNKwWbw02L-5zXZinCIl8KZq_3raFQIa-BYRKVbg1btLfBeoj7GLMZB51DX5sLHr4tVcVZsHAlGSII_4UtP_fjTPMHgrt6hzmWhsBzxvKt9o32rQpgqaQJW_Gp33EvX2M1wNXb5lPam9GL8wfT2_8MIGkPodN3_6pZgreEDTnqR6F31meT-f3sDVhXe0ORE8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZj33EYX9ggK7NkpawlZzCbbT-USdrwFFaB8iysr3YaFc8kHp9Ky8jzi1-QwNKwWbw02L-5zXZinCIl8KZq_3raFQIa-BYRKVbg1btLfBeoj7GLMZB51DX5sLHr4tVcVZsHAlGSII_4UtP_fjTPMHgrt6hzmWhsBzxvKt9o32rQpgqaQJW_Gp33EvX2M1wNXb5lPam9GL8wfT2_8MIGkPodN3_6pZgreEDTnqR6F31meT-f3sDVhXe0ORE8?fife=s16383"
+      ],
+      "description": "פריחה: בפרואר - מרץ\nפריחת תורמוסים"
+    },
+    {
+      "id": 22,
+      "lat": 32.7429875,
+      "lng": 35.0223281,
+      "species": {
+        "he": "שושן צחור",
+        "en": "White Lily"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אפריל–מאי",
+        "en": "April–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhWuej87--stgRdgigAer1iQ5_NkCFt75QqFjcdQ6Tj5P8X_qV_VudFftrEcOwNtYAhu1z55Eg7qvF3upF_MXydmkknm19St8pP2pAKSbuusJ7UizavXuGuyjZrEjHS4NEcwnJKLf5qG_JqLYQipOUQsbI5zLa3oAxkPgoWWNmfUwOZw9tIzp7yFszIJzjnlSwGDBVLGhjiDpaBSPOYclg21cc4FeBRR8Nq0rX67-S_watkYvIYaTIbK3o?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhWuej87--stgRdgigAer1iQ5_NkCFt75QqFjcdQ6Tj5P8X_qV_VudFftrEcOwNtYAhu1z55Eg7qvF3upF_MXydmkknm19St8pP2pAKSbuusJ7UizavXuGuyjZrEjHS4NEcwnJKLf5qG_JqLYQipOUQsbI5zLa3oAxkPgoWWNmfUwOZw9tIzp7yFszIJzjnlSwGDBVLGhjiDpaBSPOYclg21cc4FeBRR8Nq0rX67-S_watkYvIYaTIbK3o?fife=s16383"
+      ],
+      "description": "פריחה: מאי\nפריחת שושן צחור"
+    },
+    {
+      "id": 23,
+      "lat": 32.9609755,
+      "lng": 35.4205403,
+      "species": {
+        "he": "אדמונית החורש",
+        "en": "Peony"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אפריל",
+        "en": "April"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgohbdpk_GLUUh5RxMvNBt2bmtwi8-d-0KM6DoMu9_oF3nPoscNg0BG0JAaPG8hoOD8-Z-sCoC7LDvRIFU_5b1JK_OB_deeBaQR9Rvrz4hRXspGMwb_1Pb_6mdfwXctfP3vbJwSKWfTUMln_AQTq7h2C6_4xj2USdfiY4DTxMJZpfXFDpxoZzHgqjtuL2LO7mCUVkeSWPcB6qjCL-ZX6hp2e-SHYhrIVvAdy0RR7oEUAkXrVyRXc1Vpqgo?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgohbdpk_GLUUh5RxMvNBt2bmtwi8-d-0KM6DoMu9_oF3nPoscNg0BG0JAaPG8hoOD8-Z-sCoC7LDvRIFU_5b1JK_OB_deeBaQR9Rvrz4hRXspGMwb_1Pb_6mdfwXctfP3vbJwSKWfTUMln_AQTq7h2C6_4xj2USdfiY4DTxMJZpfXFDpxoZzHgqjtuL2LO7mCUVkeSWPcB6qjCL-ZX6hp2e-SHYhrIVvAdy0RR7oEUAkXrVyRXc1Vpqgo?fife=s16383"
+      ],
+      "description": "פריחה אפריל-מאי"
+    },
+    {
+      "id": 24,
+      "lat": 32.2232625,
+      "lng": 34.8440781,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "מרכז הארץ",
+        "en": "Central Israel"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhnX9GpgDM5EDbD9zL26q458ncQ-eiY7LA5HcLYhkCDmpr7skvqvJ8uuPtgEER3uBZgC2LGvDA57yTNfDLfeNtbKiBm3qVeTR1roLMZGqnc0V8AXOrcKeJ-il07FSkR3VI6W9_VM5hHWZETSTFjkasx-wcd4viq-TecPaF-J3gWErKUo-jl1RC8_3tSU_FEBlI0S5t9546F4cZp2Zpxgu_u1fexi8lXxkScQq7dm16olPkzSXp8JtsJ4tA?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhnX9GpgDM5EDbD9zL26q458ncQ-eiY7LA5HcLYhkCDmpr7skvqvJ8uuPtgEER3uBZgC2LGvDA57yTNfDLfeNtbKiBm3qVeTR1roLMZGqnc0V8AXOrcKeJ-il07FSkR3VI6W9_VM5hHWZETSTFjkasx-wcd4viq-TecPaF-J3gWErKUo-jl1RC8_3tSU_FEBlI0S5t9546F4cZp2Zpxgu_u1fexi8lXxkScQq7dm16olPkzSXp8JtsJ4tA?fife=s16383"
+      ],
+      "description": "פריחה: מרץ–מאי\nמתחת לגשרון אוהד."
+    },
+    {
+      "id": 25,
+      "lat": 32.2315625,
+      "lng": 34.8474219,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "מרכז הארץ",
+        "en": "Central Israel"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjupv0Sakby2S4Zy-s1T7djHpHSXYcfFBq9Dh6seQ5Fa_o1lMYHiiVFcQgB3R_0_i34ZzL4plv_QLQWkta0Q-vT936c_VolwaDZlHIbJQQ1KyXCz-w1AwCvTlJOOM6RJtgAW-H19K0oM5wsy0Fnsdzn5vLVaHSlm2bFQrgaRZb38EQ2ZAeElerY6KziZSaCh3O9asxQChzL1ZoXKUDsSg_nhePvQwSXVthu6fXkUeyaAShsvxb9lIZFux8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjupv0Sakby2S4Zy-s1T7djHpHSXYcfFBq9Dh6seQ5Fa_o1lMYHiiVFcQgB3R_0_i34ZzL4plv_QLQWkta0Q-vT936c_VolwaDZlHIbJQQ1KyXCz-w1AwCvTlJOOM6RJtgAW-H19K0oM5wsy0Fnsdzn5vLVaHSlm2bFQrgaRZb38EQ2ZAeElerY6KziZSaCh3O9asxQChzL1ZoXKUDsSg_nhePvQwSXVthu6fXkUeyaAShsvxb9lIZFux8?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים בשדה לייד הרכבת"
+    },
+    {
+      "id": 26,
+      "lat": 32.5517375,
+      "lng": 35.0107344,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZieUERX98twC8JIBfAHYrxsAl3_eeYkLhI_sRTIFaeUjwTM12xvCNbaHsI41KphtwfO6A-Y_ze2pCP3ldhdbTg8khK0F-Du04ZeLrx0koNOBSwlFtGrSyQLULumRdecmxaxg49oMlZsNHnJUHzwSGva05CMSk00OOO_hec2GjMksBrqbfP_0eZV85VszgjkA4h74wU3z07YDJ3ApoKh0KaaWp-eItLyi3bRB0mM296cPneA0Cag3EZXnKI?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZieUERX98twC8JIBfAHYrxsAl3_eeYkLhI_sRTIFaeUjwTM12xvCNbaHsI41KphtwfO6A-Y_ze2pCP3ldhdbTg8khK0F-Du04ZeLrx0koNOBSwlFtGrSyQLULumRdecmxaxg49oMlZsNHnJUHzwSGva05CMSk00OOO_hec2GjMksBrqbfP_0eZV85VszgjkA4h74wU3z07YDJ3ApoKh0KaaWp-eItLyi3bRB0mM296cPneA0Cag3EZXnKI?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים"
+    },
+    {
+      "id": 27,
+      "lat": 31.8845179,
+      "lng": 34.920646,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZitpWZDJEMVSPlruURsaGaG5ruGttAjDZonsTo5LRXS1E2TNayzkAreOoSY3qDTQ6kx3uTdApDb0D_yB3qLs71iQR71PUJDLHWJTvIdro6jCnPSHGaEF15Eb_u752B0SeBK_vVBLPwcqtJmKM6Xmj_Jd9atKRTSYV_VwCGugJViyjuS8S4V-xhyrt53WoSHJQtGHuPI7xhXKV3n9JmUrUky-iy2E6YanVbY4iUCLI1DwYPzEgK0vW1weA8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZitpWZDJEMVSPlruURsaGaG5ruGttAjDZonsTo5LRXS1E2TNayzkAreOoSY3qDTQ6kx3uTdApDb0D_yB3qLs71iQR71PUJDLHWJTvIdro6jCnPSHGaEF15Eb_u752B0SeBK_vVBLPwcqtJmKM6Xmj_Jd9atKRTSYV_VwCGugJViyjuS8S4V-xhyrt53WoSHJQtGHuPI7xhXKV3n9JmUrUky-iy2E6YanVbY4iUCLI1DwYPzEgK0vW1weA8?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים"
+    },
+    {
+      "id": 28,
+      "lat": 31.9395375,
+      "lng": 34.7991719,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjIQgSodxiiRURJOJOVymMEw36QEVwfuJ2q6gWFIbzxvQrTd89GTQfrAuT_hUlmIDEnnkdc3GbNwwQLCkSj00-TTlStCST0yb7C4clqeNQGxxYfrWfH3-lhbN5xFmJWMDOcQ51J8btOBy5fQ_Oz6KA3ppnVbSnbDK7L66fjp1pQAHaWnKOKQp5GkaqcJx3j5pxQFF078H4WdrpWJwsrvJQoXrjoV_hJs5mh7MHbLOu6ZxNV3T_89egL2z0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjIQgSodxiiRURJOJOVymMEw36QEVwfuJ2q6gWFIbzxvQrTd89GTQfrAuT_hUlmIDEnnkdc3GbNwwQLCkSj00-TTlStCST0yb7C4clqeNQGxxYfrWfH3-lhbN5xFmJWMDOcQ51J8btOBy5fQ_Oz6KA3ppnVbSnbDK7L66fjp1pQAHaWnKOKQp5GkaqcJx3j5pxQFF078H4WdrpWJwsrvJQoXrjoV_hJs5mh7MHbLOu6ZxNV3T_89egL2z0?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים"
+    },
+    {
+      "id": 29,
+      "lat": 31.8421875,
+      "lng": 34.7892969,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgVfDzK0j1kWiZLg-eBkLjbALLvPtO69Qs3ypbFN3lZoMR8J4qalZo9vNE4Hmb_VRxdw09QELFoAJwy8qTl1wiipLITPJ7-jOb191iT3yt60HXXqucmkirRkPI-SG0ABAgnah7V7QE-yv9AUNs3WlGxu3hoMgoAYNFbvGaE88ap3-GYSxmfBI6EXH6eR86f1AscKhIkaw4Qm6J_v_AaMlgAtPdAJq-xNTxWnrwce1L43raVMdgP3HTUvIU?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgVfDzK0j1kWiZLg-eBkLjbALLvPtO69Qs3ypbFN3lZoMR8J4qalZo9vNE4Hmb_VRxdw09QELFoAJwy8qTl1wiipLITPJ7-jOb191iT3yt60HXXqucmkirRkPI-SG0ABAgnah7V7QE-yv9AUNs3WlGxu3hoMgoAYNFbvGaE88ap3-GYSxmfBI6EXH6eR86f1AscKhIkaw4Qm6J_v_AaMlgAtPdAJq-xNTxWnrwce1L43raVMdgP3HTUvIU?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים"
+    },
+    {
+      "id": 30,
+      "lat": 31.4986375,
+      "lng": 34.8671719,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZguM6jRsSY0oZ4lEq1KL6SVjm6O63JyfnUhqRS_nsQFPTlBvZz3AJLBsDqAPO0YOocBWUNnZe0Jwe5WWo-pfskJ2vVVC9gbsLcNpP9D4KBsqJSYhP6kX7052jPxnqkmUGcaMgX6nOOeqPoAKoqxEUwuWL0JyPisZXjhsHkHtyC3cDuUrrIjnoJiS9rKfESl4LC5oMvKwbB2kx2Jo21OChZZGQM4sGJxoDuYGQsbbOUQwQ1mkbjpfRiyGHs?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZguM6jRsSY0oZ4lEq1KL6SVjm6O63JyfnUhqRS_nsQFPTlBvZz3AJLBsDqAPO0YOocBWUNnZe0Jwe5WWo-pfskJ2vVVC9gbsLcNpP9D4KBsqJSYhP6kX7052jPxnqkmUGcaMgX6nOOeqPoAKoqxEUwuWL0JyPisZXjhsHkHtyC3cDuUrrIjnoJiS9rKfESl4LC5oMvKwbB2kx2Jo21OChZZGQM4sGJxoDuYGQsbbOUQwQ1mkbjpfRiyGHs?fife=s16383"
+      ],
+      "description": "פריחה: פברואר - מרץ\nפריחת כלניות"
+    },
+    {
+      "id": 31,
+      "lat": 31.4998125,
+      "lng": 34.8800469,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZggu_bTNZajmMC1d7_-ThuCuirdVLphqpjJUh5K7c6p6h4YAsFTmNqCWbXHFLq_IZlMxtETFF6qbetMS4w4v8ZaO3Yhk6OTbERLiU83GX6zd9VnP9DJ6fcyAC_KUqT-XVpkiESs1cBuLastXLxPEjmdif8hde2zou72KxHV32zqfQvX9U0SR2g7rl1-6SZ05GVxfJptOvDTqK2WpXrG8RnHjZ1xNVStnHCW14r1aLKmHStXRxALvV7rCc8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZggu_bTNZajmMC1d7_-ThuCuirdVLphqpjJUh5K7c6p6h4YAsFTmNqCWbXHFLq_IZlMxtETFF6qbetMS4w4v8ZaO3Yhk6OTbERLiU83GX6zd9VnP9DJ6fcyAC_KUqT-XVpkiESs1cBuLastXLxPEjmdif8hde2zou72KxHV32zqfQvX9U0SR2g7rl1-6SZ05GVxfJptOvDTqK2WpXrG8RnHjZ1xNVStnHCW14r1aLKmHStXRxALvV7rCc8?fife=s16383"
+      ],
+      "description": "פריחה: פברואר - מרץ\nפריחת כלניות"
+    },
+    {
+      "id": 32,
+      "lat": 31.5340375,
+      "lng": 34.8953281,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjs0i-3hsAUAK34-8idvgwi9exB_gbBaL7l8_Ru8LO2WmJslwuT3PyjsKHA4jH_n8A2gK08fXBHxy8ILpUjM7PmzuG2-zgc4iYo59N9PoQ4Sm6ocSN1Fp5y9wMb_TxoDxbzK1dgDzDt0hr2evZV7qA30JR-IP8F4aozweb1RZPAqEmnbcNzb9OPZr4zhRFpj9r-xiGx4iaC-kRAWFYAkmSydjIU-3j84j_A1RgTcf7oquBXd0oJlrm3aQA?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjs0i-3hsAUAK34-8idvgwi9exB_gbBaL7l8_Ru8LO2WmJslwuT3PyjsKHA4jH_n8A2gK08fXBHxy8ILpUjM7PmzuG2-zgc4iYo59N9PoQ4Sm6ocSN1Fp5y9wMb_TxoDxbzK1dgDzDt0hr2evZV7qA30JR-IP8F4aozweb1RZPAqEmnbcNzb9OPZr4zhRFpj9r-xiGx4iaC-kRAWFYAkmSydjIU-3j84j_A1RgTcf7oquBXd0oJlrm3aQA?fife=s16383"
+      ],
+      "description": "פריחה: פברואר -מרץ\nפריחת פרגים"
+    },
+    {
+      "id": 33,
+      "lat": 31.5017143,
+      "lng": 34.8973335,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiWVXjIEDlxpZ9Rr-ExpoyM_M4QtPpMYUi6WSQPiuqlgppk2WJVTUyGKOtgQoIIiRna-NK2uXSbDjDZ1USl8Eb40YAqToUKj7hVokqtyzbXvNb3sSndzAs7MlFJBTCSF4hYd9F-KnjmXbbaABfQRAHiz844puO2LhO9AYVP4me2ccoZwa-B8ju9pot9pGa7Pxr2K8HM2k2aVUtKhvIjXGPefz4R8JzmCUD9uMqZ5mrIL4kDgLN4Xcim7o8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiWVXjIEDlxpZ9Rr-ExpoyM_M4QtPpMYUi6WSQPiuqlgppk2WJVTUyGKOtgQoIIiRna-NK2uXSbDjDZ1USl8Eb40YAqToUKj7hVokqtyzbXvNb3sSndzAs7MlFJBTCSF4hYd9F-KnjmXbbaABfQRAHiz844puO2LhO9AYVP4me2ccoZwa-B8ju9pot9pGa7Pxr2K8HM2k2aVUtKhvIjXGPefz4R8JzmCUD9uMqZ5mrIL4kDgLN4Xcim7o8?fife=s16383"
+      ],
+      "description": "פריחה: פברואר - מרץ\nפריחת כלניות"
+    },
+    {
+      "id": 34,
+      "lat": 31.9550875,
+      "lng": 34.9491719,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg9tOrMJ4_ygAU62w_FYPJ1I8liEUsbS_j6fDKWORI45Z3HnoLeRrH1I_oqVjKyYTmsuH6wb85XCxTeeER-8zZd1pAU0FucCtY4B-KZuzgFiwYa-Vb958oDeSUivazth7vM98pX1IWn1clHbPlHjvDoL-jwd4d2EFPgtR1tp24L0zbsL1KgpetLiE0X_3N5nNdbVfekgb0_Fr7cuPSVry5eXiydOisJORDDHDszc-fDGRLCKr514weA9rI?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg9tOrMJ4_ygAU62w_FYPJ1I8liEUsbS_j6fDKWORI45Z3HnoLeRrH1I_oqVjKyYTmsuH6wb85XCxTeeER-8zZd1pAU0FucCtY4B-KZuzgFiwYa-Vb958oDeSUivazth7vM98pX1IWn1clHbPlHjvDoL-jwd4d2EFPgtR1tp24L0zbsL1KgpetLiE0X_3N5nNdbVfekgb0_Fr7cuPSVry5eXiydOisJORDDHDszc-fDGRLCKr514weA9rI?fife=s16383"
+      ],
+      "description": "פריחה: בפרואר-מרץ\nפריחת רקפות"
+    },
+    {
+      "id": 35,
+      "lat": 32.5678125,
+      "lng": 35.0755156,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZj4RQq8Pu6ZebzwfXG3VJvsCNrsYW0EJWaz4p-pTg8EXp4Zwh7RgVfu2L2GrGUQKNzNX_hMAKrm1qP9_xFsEWWoNY1_U8Z3l15cbKJq1vIPKxbHPtQyH4WyXhFzvFQpdp9Sf9-FCIjdmp_WrQDVd4QGX6NK0DlqabAIwNfv3nHqbNdKH28bN3Zsr0JL_7B-gI6z5PrPjR-_LTa9jfsduECWZkBQSzU3HdAsRm6AjwE_6dmmiHG2bEKZiLo?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZj4RQq8Pu6ZebzwfXG3VJvsCNrsYW0EJWaz4p-pTg8EXp4Zwh7RgVfu2L2GrGUQKNzNX_hMAKrm1qP9_xFsEWWoNY1_U8Z3l15cbKJq1vIPKxbHPtQyH4WyXhFzvFQpdp9Sf9-FCIjdmp_WrQDVd4QGX6NK0DlqabAIwNfv3nHqbNdKH28bN3Zsr0JL_7B-gI6z5PrPjR-_LTa9jfsduECWZkBQSzU3HdAsRm6AjwE_6dmmiHG2bEKZiLo?fife=s16383"
+      ],
+      "description": "פריחה: בפרואר-מרץ\nפריחת רקפות"
+    },
+    {
+      "id": 36,
+      "lat": 32.3637125,
+      "lng": 34.8645156,
+      "species": {
+        "he": "נרקיסים",
+        "en": "Narcissus"
+      },
+      "location": {
+        "he": "מרכז הארץ",
+        "en": "Central Israel"
+      },
+      "season": {
+        "he": "נובמבר–פברואר",
+        "en": "November–February"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh2HJv4hdFq95Ys_kMDO6RCnCkTOiu0raqbzEOGX6CIOC1cwzuv_DXVVbvJrFj75SGTEGNYMEfzGgRL5FknminVfEo6VspaMPl2QCUN4W0hQNCFivEpne0-2ecsAaMqyPC_rb6LgS9icxDDL5T3HgCBcIwQ72NvF9vYR_E9etM0JApiZe2uqURM5J9n4Q0sXG_G_DBxHuOzqaGakGMDB838JGAFoo1olNDVgDS4zR_sQp85ijGCjnEFftI?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh2HJv4hdFq95Ys_kMDO6RCnCkTOiu0raqbzEOGX6CIOC1cwzuv_DXVVbvJrFj75SGTEGNYMEfzGgRL5FknminVfEo6VspaMPl2QCUN4W0hQNCFivEpne0-2ecsAaMqyPC_rb6LgS9icxDDL5T3HgCBcIwQ72NvF9vYR_E9etM0JApiZe2uqURM5J9n4Q0sXG_G_DBxHuOzqaGakGMDB838JGAFoo1olNDVgDS4zR_sQp85ijGCjnEFftI?fife=s16383"
+      ],
+      "description": "פריחה: נובמבר-פברואר\nביתן אהרון"
+    },
+    {
+      "id": 37,
+      "lat": 31.9408625,
+      "lng": 34.8096094,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZipfYkzYkLFq0GoImKtQev_qZPi5ANUmGs2ESQFV-DkusoL8m7DMCXPlI60VkiYfCdu8qDs3qT43c1nvBPvP-2UtP0l6qpDRMGIPoICwqILcIZJymxi6eW_5FAccage9Ok9Q853zex3wp2R02EmSQZ7O2GAd1BmoQ0zfqtveo1hI-v3iLS3bXFLeiaxy_1phAXEYxiu-4wDZVZUZ1PT5TXKGuxXydpHaJV8XeqcLxydyCzIld12lC1tmzA?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZipfYkzYkLFq0GoImKtQev_qZPi5ANUmGs2ESQFV-DkusoL8m7DMCXPlI60VkiYfCdu8qDs3qT43c1nvBPvP-2UtP0l6qpDRMGIPoICwqILcIZJymxi6eW_5FAccage9Ok9Q853zex3wp2R02EmSQZ7O2GAd1BmoQ0zfqtveo1hI-v3iLS3bXFLeiaxy_1phAXEYxiu-4wDZVZUZ1PT5TXKGuxXydpHaJV8XeqcLxydyCzIld12lC1tmzA?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nשדה פרגים"
+    },
+    {
+      "id": 38,
+      "lat": 32.7081762,
+      "lng": 34.946233,
+      "species": {
+        "he": "חצבים",
+        "en": "Sea Squill"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אוגוסט–ספטמבר",
+        "en": "August–September"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZid7xXmMUvbEPCw0gqZo8S7d9WP1nX-FJciTNS20wkGaqfLSwtkyslOvCPhZTHnBj-ndTcEsN_-iuKm2ZqKfKQmGG_C1QNlwNnI0y_XN-HvFmPxXf2n4ZHAhDupEyofTzB9-D04r6lEWvfIBnAG8gPvb3nj_Gi663ALDZLEpBTuDN6FCcZsUE4tGsI_BqvAXAzDXxDMtXJMW1bAow_aV6bUmIM1vgpgDbWyao2jVNVlGOx118WcIiY924g?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZid7xXmMUvbEPCw0gqZo8S7d9WP1nX-FJciTNS20wkGaqfLSwtkyslOvCPhZTHnBj-ndTcEsN_-iuKm2ZqKfKQmGG_C1QNlwNnI0y_XN-HvFmPxXf2n4ZHAhDupEyofTzB9-D04r6lEWvfIBnAG8gPvb3nj_Gi663ALDZLEpBTuDN6FCcZsUE4tGsI_BqvAXAzDXxDMtXJMW1bAow_aV6bUmIM1vgpgDbWyao2jVNVlGOx118WcIiY924g?fife=s16383"
+      ],
+      "description": "פריחה: ספטמבר - אוקטובר\nחורשת לימור פריחת חצבים"
+    },
+    {
+      "id": 39,
+      "lat": 32.6043125,
+      "lng": 35.3838125,
+      "species": {
+        "he": "תורמוסים",
+        "en": "Lupines"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "פברואר–מרץ",
+        "en": "February–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgr5ruStj1RJAth_sdjsnHQA3XFjNBSbd-ys4G4ahydAyA1tix6B5lavUkQJky_ds1dYfmeYOZj5pTdTN9R_LOiZ3moaS0ApJVH-kl_yl1Z8bvjKWjj7Fw9NU9a_TVCIsyGLDZ2o0C3-b5rKqf7YDtX5GawQ9_cI3rMADx12Ls9kMu-1oq4tVbCuWgYGN5EIrSjQdzuGt4JSgPEGW-XkRNDa-39QIEglR6zULx9UmU8fpciFSllnVG_SrM?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgr5ruStj1RJAth_sdjsnHQA3XFjNBSbd-ys4G4ahydAyA1tix6B5lavUkQJky_ds1dYfmeYOZj5pTdTN9R_LOiZ3moaS0ApJVH-kl_yl1Z8bvjKWjj7Fw9NU9a_TVCIsyGLDZ2o0C3-b5rKqf7YDtX5GawQ9_cI3rMADx12Ls9kMu-1oq4tVbCuWgYGN5EIrSjQdzuGt4JSgPEGW-XkRNDa-39QIEglR6zULx9UmU8fpciFSllnVG_SrM?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-פברואר\nשמורת תורמוס ההרים, נעורה"
+    },
+    {
+      "id": 40,
+      "lat": 31.6940625,
+      "lng": 35.0099844,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgR-GxctROFH5se9Hni5ZfSOX3cYoE070DCwVYoHxqsTTL2VO0YaJ-fFDmTXVAM-H0Kk-4bFFNqRJEbfV-eaiSliwyRtC9VXTsGV_5b7o5VjPi4GfZo_tnL2GfYIRQvr_Zz2g02g1dxgQTHTDrwwFF-I1TpYt_sO1Agjw3XG2i-uwVDibZQ4vz8X_z5QwaqKgMtUKhq3l2n466qOBOrtU_O12sHC1I6gCRI-cganQwqzkpTust4rMAsg9I?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgR-GxctROFH5se9Hni5ZfSOX3cYoE070DCwVYoHxqsTTL2VO0YaJ-fFDmTXVAM-H0Kk-4bFFNqRJEbfV-eaiSliwyRtC9VXTsGV_5b7o5VjPi4GfZo_tnL2GfYIRQvr_Zz2g02g1dxgQTHTDrwwFF-I1TpYt_sO1Agjw3XG2i-uwVDibZQ4vz8X_z5QwaqKgMtUKhq3l2n466qOBOrtU_O12sHC1I6gCRI-cganQwqzkpTust4rMAsg9I?fife=s16383"
+      ],
+      "description": "פריחה: מרץ–מאי\nפריחת פרגים"
+    },
+    {
+      "id": 41,
+      "lat": 32.6367125,
+      "lng": 35.3432344,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjTU93x0td7GGckCY7H6HWGwTo_tFVzFE4Pk0LgJDKs0p6qfsUIZbXnIYBC-7GJiLYXap6XQTzO6XgjiHcXNWjyCFHqFjGynl92ocUpzJln7GalkX-rnTBpChM4BsawbKWDFloBcv_b0HIoMCwD8jze0dn5EyMeQwrpg64KeRUAKtfha0vpVvBnf0Cpt4R9nT9aKxCdbjoad6B67X4n2C28685Tec6qONIiaV9ZEUTBFHD1NlWZTtd38o0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjTU93x0td7GGckCY7H6HWGwTo_tFVzFE4Pk0LgJDKs0p6qfsUIZbXnIYBC-7GJiLYXap6XQTzO6XgjiHcXNWjyCFHqFjGynl92ocUpzJln7GalkX-rnTBpChM4BsawbKWDFloBcv_b0HIoMCwD8jze0dn5EyMeQwrpg64KeRUAKtfha0vpVvBnf0Cpt4R9nT9aKxCdbjoad6B67X4n2C28685Tec6qONIiaV9ZEUTBFHD1NlWZTtd38o0?fife=s16383"
+      ],
+      "description": "פריחה: מרץ–מאי\nשדה פרגים"
+    },
+    {
+      "id": 42,
+      "lat": 31.4983364,
+      "lng": 34.719248,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjYsCadA52tjHbETM6y1omgH40x4zCIFnk_RmK26CuYw5G0Yof9Aoenmv_J4MpM_BQASe2zsDpWdy_Ds2Sx34NqZYtECg5LCmxwvRVG9pQekcI1BY3yjYtjRNLHVJ1_w_JialjOhjtjfcnLbfHwhq7ngQDO_dWCE0T9fuscR6bcfc_Aogm9bn7V_PChI0240ALaFh6xkZUFsNf3CPb0JaKQbP-UBlMq7g_TodXuN9YMRsJ-QQhjv6yoL4E?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjYsCadA52tjHbETM6y1omgH40x4zCIFnk_RmK26CuYw5G0Yof9Aoenmv_J4MpM_BQASe2zsDpWdy_Ds2Sx34NqZYtECg5LCmxwvRVG9pQekcI1BY3yjYtjRNLHVJ1_w_JialjOhjtjfcnLbfHwhq7ngQDO_dWCE0T9fuscR6bcfc_Aogm9bn7V_PChI0240ALaFh6xkZUFsNf3CPb0JaKQbP-UBlMq7g_TodXuN9YMRsJ-QQhjv6yoL4E?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nפריחת כלניות"
+    },
+    {
+      "id": 43,
+      "lat": 31.5006125,
+      "lng": 34.6997344,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZigTiVkZ2nNxHezIZyqf_2PtAgHQ4loNNfKcE__lPPIhGSnE2utB-aIth2EstlHpSCXJHZ_IIV3Y8qgU99bMnreooroRfSjaXkGgNUz8eIRAfe4TJw7DgXl9fHjmyvgGVQfw2ECJ2lEQELuV5bsFX2PvRq3PBcOqLLel6blICsojyEmXldHFNV34Z3PeXpAFJO8R2dA2Adc2O18Emf4lkVOvRN_abagEE7kiA4iTvVPm7WMbZ8fjWVjOa8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZigTiVkZ2nNxHezIZyqf_2PtAgHQ4loNNfKcE__lPPIhGSnE2utB-aIth2EstlHpSCXJHZ_IIV3Y8qgU99bMnreooroRfSjaXkGgNUz8eIRAfe4TJw7DgXl9fHjmyvgGVQfw2ECJ2lEQELuV5bsFX2PvRq3PBcOqLLel6blICsojyEmXldHFNV34Z3PeXpAFJO8R2dA2Adc2O18Emf4lkVOvRN_abagEE7kiA4iTvVPm7WMbZ8fjWVjOa8?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nבתרונות רוחמה"
+    },
+    {
+      "id": 44,
+      "lat": 32.5737375,
+      "lng": 35.0748281,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhtUnnx9GWT698Qsq3AnEE1c5Qp4xdCjEQd_BkZnZbKhrTvPzhm3w1kF1p6VQFC8x1H3p1PQRSyXely1dG2bhfc2lg3gfKX5alAV_PMLr5egcMl4sCAoPmz_uZX-33o_8bM9fPKyek6k-eAgNJFEoVecx3iR2E3js1l_gFBDI1qIAWEjQ_ltlDURCFWjg15TA4QIV_SCTmJdWKUQBCIxV6qNGTm19_bn7yvwllmKZI4nrLn3FXXVn6pYws?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhtUnnx9GWT698Qsq3AnEE1c5Qp4xdCjEQd_BkZnZbKhrTvPzhm3w1kF1p6VQFC8x1H3p1PQRSyXely1dG2bhfc2lg3gfKX5alAV_PMLr5egcMl4sCAoPmz_uZX-33o_8bM9fPKyek6k-eAgNJFEoVecx3iR2E3js1l_gFBDI1qIAWEjQ_ltlDURCFWjg15TA4QIV_SCTmJdWKUQBCIxV6qNGTm19_bn7yvwllmKZI4nrLn3FXXVn6pYws?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nפריחת רקפות"
+    },
+    {
+      "id": 45,
+      "lat": 32.665453,
+      "lng": 35.2278499,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgdYh2G8k30TnzTtsLUzEYk2GjXlDA8lHWpZWjQot-mHx4audhdFFqlsZtR4BV7Xdf3lkP7jnX0mDYdtmcTHGnVjZfaKKnfVnguyS55yYTgeatx7uONo1RD-75ZmOIW70t1J0hqgRpNs3PvXM1i2ikTFGF-g_ds2GPAbMCgX-tzLgreNbNL5lwacDkuvtPw4ZPv6lRqyZRtYfEJS7XI15zy3cmcBldhhef278wpPcMp_JwEJCOa4FjFfz0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgdYh2G8k30TnzTtsLUzEYk2GjXlDA8lHWpZWjQot-mHx4audhdFFqlsZtR4BV7Xdf3lkP7jnX0mDYdtmcTHGnVjZfaKKnfVnguyS55yYTgeatx7uONo1RD-75ZmOIW70t1J0hqgRpNs3PvXM1i2ikTFGF-g_ds2GPAbMCgX-tzLgreNbNL5lwacDkuvtPw4ZPv6lRqyZRtYfEJS7XI15zy3cmcBldhhef278wpPcMp_JwEJCOa4FjFfz0?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nיער מסריק"
+    },
+    {
+      "id": 46,
+      "lat": 32.6886875,
+      "lng": 35.2394375,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjoi1OuZtjg396hEqAg8dBU6kCJ4EcUpZznMXF7hDloV01YRMopE9ZNUoIzxpRT3LCkfVln6SJB96aIAxhAzTUfhMDLoyY2mhRjWA1z-xAefKjzNj7u6JOxpZdJLJ22BWQ_jxyYbnGfZyP4hgUWMvVkD1kN0cPigCqeW7XBfFC4Px098CITfzcyJnIDVOp8uTrb8Awhz-v0_qeV3iVqmD4XIY33uQElIRsPwFMXTFX-0jWK1iysRYu1tA4?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjoi1OuZtjg396hEqAg8dBU6kCJ4EcUpZznMXF7hDloV01YRMopE9ZNUoIzxpRT3LCkfVln6SJB96aIAxhAzTUfhMDLoyY2mhRjWA1z-xAefKjzNj7u6JOxpZdJLJ22BWQ_jxyYbnGfZyP4hgUWMvVkD1kN0cPigCqeW7XBfFC4Px098CITfzcyJnIDVOp8uTrb8Awhz-v0_qeV3iVqmD4XIY33uQElIRsPwFMXTFX-0jWK1iysRYu1tA4?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nשביל הרקפות"
+    },
+    {
+      "id": 47,
+      "lat": 32.5924375,
+      "lng": 35.2353125,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhJcaPndsD8_DIF_OBQMeZeUX-73FsZnw4ZQNvo01anzBQjJ3icFfA3Sp7jZjO2sl9ItfVnAcO-3DKkio-v8u7WtG6TOo9PYXF3Lp5QsFMNe_2xLCXyjIwA8MBvDcOBipwVJDNP_7yP2OP35Gqu1tpiHOquANOSdt32OJ-p0IhANVays3HdO2I2Rp63pqfWetpMd-o9ONIrU0GADPFaLkW-DBXc_RvRxTDJwJWT-TEaItoYdO_tCbDVejA?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhJcaPndsD8_DIF_OBQMeZeUX-73FsZnw4ZQNvo01anzBQjJ3icFfA3Sp7jZjO2sl9ItfVnAcO-3DKkio-v8u7WtG6TOo9PYXF3Lp5QsFMNe_2xLCXyjIwA8MBvDcOBipwVJDNP_7yP2OP35Gqu1tpiHOquANOSdt32OJ-p0IhANVays3HdO2I2Rp63pqfWetpMd-o9ONIrU0GADPFaLkW-DBXc_RvRxTDJwJWT-TEaItoYdO_tCbDVejA?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\n  שביל הכלניות מנחת מגידו"
+    },
+    {
+      "id": 48,
+      "lat": 32.6411375,
+      "lng": 35.0979531,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhpzBETUZy-IQurcsOpTrIF4is2fIwE-SO4zrLK_dp4aph_fYBB9wJn3A8vhoJg9yBoa4v7TbABzXGHKhcDgQfcXGVwaOeC5o3tJrQTfclVL3Jm0ZmFHGo2hfGmPuN5Oo9LaNxgM-BWduvqTYA6uxSTYqGzQZAeWgYCM5Ui46rGYDw4wNS_reB1MpYPInQpIpBNSSG2gpoiiFYtRIT9Dyu7yUTGzUKOosg_o79m4ZPDrbL3CehfJ6wnaA4?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhpzBETUZy-IQurcsOpTrIF4is2fIwE-SO4zrLK_dp4aph_fYBB9wJn3A8vhoJg9yBoa4v7TbABzXGHKhcDgQfcXGVwaOeC5o3tJrQTfclVL3Jm0ZmFHGo2hfGmPuN5Oo9LaNxgM-BWduvqTYA6uxSTYqGzQZAeWgYCM5Ui46rGYDw4wNS_reB1MpYPInQpIpBNSSG2gpoiiFYtRIT9Dyu7yUTGzUKOosg_o79m4ZPDrbL3CehfJ6wnaA4?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nבעמק השלום מאחורי ביג יוקנעם"
+    },
+    {
+      "id": 49,
+      "lat": 32.6072375,
+      "lng": 35.0750156,
+      "species": {
+        "he": "תורמוסים",
+        "en": "Lupines"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "פברואר–מרץ",
+        "en": "February–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhndAHQwKu_MY2G98rh89CtNPVxpYvB7CJBs-QTryByPZuz2Wau4S2UM9Uu_zUJbB7zqt58qZ5iJ80ZRONu7xSYzu3iWm15kyrrMpqV2sWQq7sG3leFKkk3QBAe2ZLXerm7VP6HDuY6BBczTaqnoYOhQXmsdFV8gqm8kY5zbg-OEhyd3TtjqrBTUBgfPCJiDfmDOgIxbGS-7XWMXFjZZUutN_RmPK_F-Agx2KDKDUf1o4AUwGY_j1rwYoY?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhndAHQwKu_MY2G98rh89CtNPVxpYvB7CJBs-QTryByPZuz2Wau4S2UM9Uu_zUJbB7zqt58qZ5iJ80ZRONu7xSYzu3iWm15kyrrMpqV2sWQq7sG3leFKkk3QBAe2ZLXerm7VP6HDuY6BBczTaqnoYOhQXmsdFV8gqm8kY5zbg-OEhyd3TtjqrBTUBgfPCJiDfmDOgIxbGS-7XWMXFjZZUutN_RmPK_F-Agx2KDKDUf1o4AUwGY_j1rwYoY?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nשדה תורמוסים"
+    },
+    {
+      "id": 50,
+      "lat": 32.5262375,
+      "lng": 35.0486406,
+      "species": {
+        "he": "כלניות, רקפות",
+        "en": "Anemones & Cyclamen"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhMztg43UStyZTwkX58VWXxd0Mgdf9fUbYxH4OwGuLzXa2jqeMqzIhDkbcfHbki7JXegcfhDvg_9o6dpPfme0o6VsI3rQVdk45Nk3SLHwoJ3CbPlj7vuV5yg4m9Jxh3ZJsF7CqGAN_oPq02MKmNYRQ_1wrko1E9jyiMY8NAnj7vlt1-l4muL4lu5hZR7gQ3GBgIdxZ6IVti26R_yObJn7FfpO6b8qWuRbls7CiRwQQ6Qmm1V8oEC9uh5qY?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhMztg43UStyZTwkX58VWXxd0Mgdf9fUbYxH4OwGuLzXa2jqeMqzIhDkbcfHbki7JXegcfhDvg_9o6dpPfme0o6VsI3rQVdk45Nk3SLHwoJ3CbPlj7vuV5yg4m9Jxh3ZJsF7CqGAN_oPq02MKmNYRQ_1wrko1E9jyiMY8NAnj7vlt1-l4muL4lu5hZR7gQ3GBgIdxZ6IVti26R_yObJn7FfpO6b8qWuRbls7CiRwQQ6Qmm1V8oEC9uh5qY?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nמול רגבים, חונים על הכביש ועוברים את הגדר"
+    },
+    {
+      "id": 51,
+      "lat": 31.425582,
+      "lng": 34.510044,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjwUk8moHdJQ_gC8vWObkXbxOM3WemvJYg2KB6aDR_DLo_GjS4ULjbJHftQFcA6tdIL0eV6qvxnpWOghYu_P4w2NaUK23E1NxItZ5XjeFX1DnPd2aspep3DpPYy6xWBejEM-DTqIVcjSDEqLS_tvSjlz6WgIrgK8QEj4adEZCN8g_LT5WKgUsuZ69WTzGmOG6XqFccuwtfqmbjmR_o5DFrQZpNm8yMi-1aXiLkOPRlCe-MOoJbY6O26C_Q?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjwUk8moHdJQ_gC8vWObkXbxOM3WemvJYg2KB6aDR_DLo_GjS4ULjbJHftQFcA6tdIL0eV6qvxnpWOghYu_P4w2NaUK23E1NxItZ5XjeFX1DnPd2aspep3DpPYy6xWBejEM-DTqIVcjSDEqLS_tvSjlz6WgIrgK8QEj4adEZCN8g_LT5WKgUsuZ69WTzGmOG6XqFccuwtfqmbjmR_o5DFrQZpNm8yMi-1aXiLkOPRlCe-MOoJbY6O26C_Q?fife=s16383"
+      ],
+      "description": "פריחה: מרץ–מאי\nפריחת פרגים"
+    },
+    {
+      "id": 52,
+      "lat": 32.7040625,
+      "lng": 35.1290625,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjgUNAtsa6x93weK8qRzo4xas2_izQ7mFJF7UA_-WaAAo0z2bfRpSVNbPlpTBQRQAxm3B6VbV7W3ocpXotH01nFfyRl0uVcmuZh6FXcCmhkPkD0X1tdWMMUZyNdlOEMhCJwAondKA0F3Qt7uleUKJrXD2_Th8ZtdZI6aVPGVZkfu-ZAfNsLqt60bTLEatr02LymH7y2nFDNCRHcKYbEXpKifkyAn7WbXC52_2WZmcFEiilU8122jphVZHc?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjgUNAtsa6x93weK8qRzo4xas2_izQ7mFJF7UA_-WaAAo0z2bfRpSVNbPlpTBQRQAxm3B6VbV7W3ocpXotH01nFfyRl0uVcmuZh6FXcCmhkPkD0X1tdWMMUZyNdlOEMhCJwAondKA0F3Qt7uleUKJrXD2_Th8ZtdZI6aVPGVZkfu-ZAfNsLqt60bTLEatr02LymH7y2nFDNCRHcKYbEXpKifkyAn7WbXC52_2WZmcFEiilU8122jphVZHc?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nפריחת כלניות"
+    },
+    {
+      "id": 53,
+      "lat": 32.7758125,
+      "lng": 35.4146719,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhBcI3SaZ_UkjNcH1ydKQon0esawszVv2miWOLjJVPafyERL4TZQicNM5JqCwZC5_YeL5AWn96oLF1KbyFs0FRSdRpyy170Nrgi6pW5H2wkJF9-hESod2BMtIV7ZIbpLmeabJygVsIBLjvGTyVfWapUOdErjCbokCzDhkfTjeM42bqwSO8YHb6FOqqJtmTvei0ayAyXFuJndPynOIoRelFpoB2XsPfmxi-eTIFixvQZcgZdN0HNFpol2f0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhBcI3SaZ_UkjNcH1ydKQon0esawszVv2miWOLjJVPafyERL4TZQicNM5JqCwZC5_YeL5AWn96oLF1KbyFs0FRSdRpyy170Nrgi6pW5H2wkJF9-hESod2BMtIV7ZIbpLmeabJygVsIBLjvGTyVfWapUOdErjCbokCzDhkfTjeM42bqwSO8YHb6FOqqJtmTvei0ayAyXFuJndPynOIoRelFpoB2XsPfmxi-eTIFixvQZcgZdN0HNFpol2f0?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nמול יער לביא"
+    },
+    {
+      "id": 54,
+      "lat": 32.7800625,
+      "lng": 35.4185469,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhFYvbhXpC_6QF2hG9ySdvCs8U6px-9Lt7ImfhT_rsz-S54_hdn1EjD9y7XPON-EuGxGvtgLzv5xkp4fQOmkq4I9KiL2RegQO-I_knGjvd0ulDgSMO5WRYo3mBHm9qGcRKgsdErtacusjcESfge_QJLN4rQAvp8Txz1AgLyuat48v-UGGl38qSBXQ-vsU899-q3EhhMWi23SEF1DZSFai1yRFMHO9ZoT797OoBfhaPcbgaZvusKRlOUwss?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhFYvbhXpC_6QF2hG9ySdvCs8U6px-9Lt7ImfhT_rsz-S54_hdn1EjD9y7XPON-EuGxGvtgLzv5xkp4fQOmkq4I9KiL2RegQO-I_knGjvd0ulDgSMO5WRYo3mBHm9qGcRKgsdErtacusjcESfge_QJLN4rQAvp8Txz1AgLyuat48v-UGGl38qSBXQ-vsU899-q3EhhMWi23SEF1DZSFai1yRFMHO9ZoT797OoBfhaPcbgaZvusKRlOUwss?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nיער לביא ליד צומת גולני"
+    },
+    {
+      "id": 55,
+      "lat": 31.8228125,
+      "lng": 34.7773125,
+      "species": {
+        "he": "תורמוסים",
+        "en": "Lupines"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "פברואר–מרץ",
+        "en": "February–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgOQ8nLqnp0dCioBPwD81Se5l2SAvoS8nQK2uLc8h47q0t3uLXjuFdtoFAfpOWP3byVf42Pd5ig7LO7Xy-L-WX1_ESkPlzbU-GpfCvKCobC1ReoINoaaCtKf-Tz_ETLELucNu5InHAuA7-WrSDs7Ueeltr4-8nwvOLPAr0JssKzW-w3Wzq_DjOU3tMqg0yIgkghNvc6LhLXJm2rezuxP3FNUPb8A0EheQt6ujG6nIhCE_8MXY0hEHg2d1E?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgOQ8nLqnp0dCioBPwD81Se5l2SAvoS8nQK2uLc8h47q0t3uLXjuFdtoFAfpOWP3byVf42Pd5ig7LO7Xy-L-WX1_ESkPlzbU-GpfCvKCobC1ReoINoaaCtKf-Tz_ETLELucNu5InHAuA7-WrSDs7Ueeltr4-8nwvOLPAr0JssKzW-w3Wzq_DjOU3tMqg0yIgkghNvc6LhLXJm2rezuxP3FNUPb8A0EheQt6ujG6nIhCE_8MXY0hEHg2d1E?fife=s16383"
+      ],
+      "description": "פריחה: פברואר-מרץ\nפריחת תורמוסים"
+    },
+    {
+      "id": 56,
+      "lat": 31.6545625,
+      "lng": 34.9957031,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiHET-lZyp8s7CeOzXz8Rhc4mK-f55REOmaNDsudylfWn-fFkE-TXOypjhnRS7Lk8JU6Tadqqy_3Jm6B4jb5W40_GqXE0xt2dzLq9o0cBRt2RlYKXQIyebaGqmlNCM1jpkfJI6_CK26PpNtqxBktyBZgy0EhflgyT69KuCvWFYDX07aDUfXDXnWTeTP1CWMW-qYJBSS3VImsnjnb889p8PbMV30XicNDhuR7Ml1qP1t5aSFK5k9cbvTW7E?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiHET-lZyp8s7CeOzXz8Rhc4mK-f55REOmaNDsudylfWn-fFkE-TXOypjhnRS7Lk8JU6Tadqqy_3Jm6B4jb5W40_GqXE0xt2dzLq9o0cBRt2RlYKXQIyebaGqmlNCM1jpkfJI6_CK26PpNtqxBktyBZgy0EhflgyT69KuCvWFYDX07aDUfXDXnWTeTP1CWMW-qYJBSS3VImsnjnb889p8PbMV30XicNDhuR7Ml1qP1t5aSFK5k9cbvTW7E?fife=s16383"
+      ],
+      "description": "פריחה: ינואר-מרץ\nשדה פריחת פרגים"
+    },
+    {
+      "id": 57,
+      "lat": 31.5865125,
+      "lng": 34.8137656,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg15soDuWFUXtUOLFrjOi-q7GjhRfrAzaCMPiDluQ8TCzrmDocl_sUVVNHXV--bL7DyLDxkDwkMnzTUCNNB8Ui5V4Rn_YpfF9qMqpjtJ4NpO9Oj8NT4m8Q1sDdvm4siKWbr_9hyAf7EYxr66ZpIWRBXLhaW3pZ0uFFse5cLuap4xW19eBymGBo4rS5uN5oQ4wQJFavyt3rSiG3VppyyRPc0N-lPzB7AiOoe2BQUJAMjUI4DR-E5fpi3KIc?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg15soDuWFUXtUOLFrjOi-q7GjhRfrAzaCMPiDluQ8TCzrmDocl_sUVVNHXV--bL7DyLDxkDwkMnzTUCNNB8Ui5V4Rn_YpfF9qMqpjtJ4NpO9Oj8NT4m8Q1sDdvm4siKWbr_9hyAf7EYxr66ZpIWRBXLhaW3pZ0uFFse5cLuap4xW19eBymGBo4rS5uN5oQ4wQJFavyt3rSiG3VppyyRPc0N-lPzB7AiOoe2BQUJAMjUI4DR-E5fpi3KIc?fife=s16383"
+      ],
+      "description": "פריחה: מרץ–מאי\nשדה פריחת פרגים"
+    },
+    {
+      "id": 58,
+      "lat": 31.5901125,
+      "lng": 34.8137344,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiSlVMhOXo-XdXVH2yw-sbZxOs1cWHvI-Ds440WQq-21-ndNr8J9Ws-XywJ0_zebNq8rtNL0y5DrTypLVLhNYl_idQs9N47i7TIzGKQ3XolyHWp7pSw5BqG6tGyRNkGjHvlzmTknf6E0cxTD1m9Cib5ShhptvOmG8pQylQsZkO617w16hbumDj921tyrRUxekhn_i2jVfgq5DT7JABSaQxYA0sRSxXq-l_omzfWuGKQL1DhWQ_ukXDrtxk?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiSlVMhOXo-XdXVH2yw-sbZxOs1cWHvI-Ds440WQq-21-ndNr8J9Ws-XywJ0_zebNq8rtNL0y5DrTypLVLhNYl_idQs9N47i7TIzGKQ3XolyHWp7pSw5BqG6tGyRNkGjHvlzmTknf6E0cxTD1m9Cib5ShhptvOmG8pQylQsZkO617w16hbumDj921tyrRUxekhn_i2jVfgq5DT7JABSaQxYA0sRSxXq-l_omzfWuGKQL1DhWQ_ukXDrtxk?fife=s16383"
+      ],
+      "description": "פריחה: מרץ–מאי\nשדה פריחת פרגים"
+    },
+    {
+      "id": 59,
+      "lat": 31.5929125,
+      "lng": 34.8149531,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgnelP6y_6YkCM9_PqoP-BHK26fl1Tc1nsUPL6VGmwboZXtvgK5qOF-GX2sj2PguL3DHFwVL--7vFrOWN-9p34mQZZy0lbeUagGH8xiww9q6Mb78dpS3duIXwrot4_EI0eT8vbx9R3UIKeayoOMw6aEEJQZ6sFM2oSBosiC5GzBVVxiTooNMx4Avq0xusjXIw1S4MVLYwWNW018K0QjI5mSLXEFu_oOKO-fxqE5y-5QJh6nIypnxDHS2Ws?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgnelP6y_6YkCM9_PqoP-BHK26fl1Tc1nsUPL6VGmwboZXtvgK5qOF-GX2sj2PguL3DHFwVL--7vFrOWN-9p34mQZZy0lbeUagGH8xiww9q6Mb78dpS3duIXwrot4_EI0eT8vbx9R3UIKeayoOMw6aEEJQZ6sFM2oSBosiC5GzBVVxiTooNMx4Avq0xusjXIw1S4MVLYwWNW018K0QjI5mSLXEFu_oOKO-fxqE5y-5QJh6nIypnxDHS2Ws?fife=s16383"
+      ],
+      "description": "פריחה: מרץ–מאי\nפריחת פרגים"
+    },
+    {
+      "id": 60,
+      "lat": 31.6041125,
+      "lng": 34.8336094,
+      "species": {
+        "he": "רקפות",
+        "en": "Cyclamen"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjwlwAOqeBTDDCfZJZ-llOeQBA_SDRgOJSUD6V0UopUCbhDZOXjLOWhj5mvn4fiGrZhevXqO-2vNil1b1T5pictyjOJ0_AUja7cPqnvnLIioPQ30uYf9U0rnE60ZgLur6lZA02R3oIjB4McyPIt_S1mbeDHcXUNSV1YFBPHf02B9X9yLpFQtTyjKGd60ffw0-jU7nsebqQ34m7cHKLYZbS6bFb7OltRckrechB4NP2dIpD78EcDllPBtIw?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjwlwAOqeBTDDCfZJZ-llOeQBA_SDRgOJSUD6V0UopUCbhDZOXjLOWhj5mvn4fiGrZhevXqO-2vNil1b1T5pictyjOJ0_AUja7cPqnvnLIioPQ30uYf9U0rnE60ZgLur6lZA02R3oIjB4McyPIt_S1mbeDHcXUNSV1YFBPHf02B9X9yLpFQtTyjKGd60ffw0-jU7nsebqQ34m7cHKLYZbS6bFb7OltRckrechB4NP2dIpD78EcDllPBtIw?fife=s16383"
+      ],
+      "description": "פריחה: דצמבר–מרץ\nיער המלאכים"
+    },
+    {
+      "id": 61,
+      "lat": 32.8341875,
+      "lng": 35.2768281,
+      "species": {
+        "he": "חצבים",
+        "en": "Sea Squill"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אוגוסט–ספטמבר",
+        "en": "August–September"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhyCsiNGgVEosFa7FNJiTAzLStf8nYK6pWVj6nPO09pTBfp4iil2HfwTGg7yqnyv3u688vEUP-nHaueBSjWn_fwSNVveTriTEVr4USXvyN74mi-nxUwY35UpwNXrE806o6DpW1o85fyomeO8VkPVLqLMa2DDI0nkS-voyk7KSEVY-h10NMZF2a0Niw7GcE4fC3j9ImnStiBed5pgMustIT2_yjWeukbQadOE8sbR2I3JTQBgqZ9uNGi8L0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhyCsiNGgVEosFa7FNJiTAzLStf8nYK6pWVj6nPO09pTBfp4iil2HfwTGg7yqnyv3u688vEUP-nHaueBSjWn_fwSNVveTriTEVr4USXvyN74mi-nxUwY35UpwNXrE806o6DpW1o85fyomeO8VkPVLqLMa2DDI0nkS-voyk7KSEVY-h10NMZF2a0Niw7GcE4fC3j9ImnStiBed5pgMustIT2_yjWeukbQadOE8sbR2I3JTQBgqZ9uNGi8L0?fife=s16383"
+      ],
+      "description": "פריחה: ספטמבר - אוקטובר\nתל יודפת"
+    },
+    {
+      "id": 62,
+      "lat": 31.4453674,
+      "lng": 34.5224568,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "צפון הנגב",
+        "en": "Northern Negev"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjDrCVO6yKKeeC-EFUdPL93vf8_WWXS2qUyDHjsD3G7uc9RwC6V_4hu4qraSpn2xIjrmcEXtaFSKOQCmogU5bGdqMaesJWaykTZHtSPH7lJb4YOHba14TWmNA5t-3S-qyQiOz6tMowUK3Sthqmo8kVS9t1nDkg0aeZCwXOk_cwOZL4Xe3CEw5YQZeL9ecwlnXAR_6WzjdTgECbRNb7CJueymSllAZVBYsmM_b6hxg2CyhJRoFQIn3GfQ2k?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjDrCVO6yKKeeC-EFUdPL93vf8_WWXS2qUyDHjsD3G7uc9RwC6V_4hu4qraSpn2xIjrmcEXtaFSKOQCmogU5bGdqMaesJWaykTZHtSPH7lJb4YOHba14TWmNA5t-3S-qyQiOz6tMowUK3Sthqmo8kVS9t1nDkg0aeZCwXOk_cwOZL4Xe3CEw5YQZeL9ecwlnXAR_6WzjdTgECbRNb7CJueymSllAZVBYsmM_b6hxg2CyhJRoFQIn3GfQ2k?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nבאר מרווה"
+    },
+    {
+      "id": 63,
+      "lat": 32.7340193,
+      "lng": 35.1714477,
+      "species": {
+        "he": "כלניות",
+        "en": "Anemones"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "ינואר–מרץ",
+        "en": "January–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhCU2otkdfkmrPA3YLg-criCJZtD-xKLWFhow6cVeQs3vcyf5yX_lzUQyddM0-TWYQhROrfSKgAyrXuPayoNXwiqKgslQ-uPembJwCOs4UGdI24CHYOWOUy2RpUtCusnQQmciGhwMoc9Had6zMtsR7Ojtu3TMXSoJW8j677EEhNqJQzuBbpS17mFrXEPUV17iRpCe-Vtgme21rgnxwLD290amrNQCUNjgBicj7CWT24tWtOdAoytR2lWv8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhCU2otkdfkmrPA3YLg-criCJZtD-xKLWFhow6cVeQs3vcyf5yX_lzUQyddM0-TWYQhROrfSKgAyrXuPayoNXwiqKgslQ-uPembJwCOs4UGdI24CHYOWOUy2RpUtCusnQQmciGhwMoc9Had6zMtsR7Ojtu3TMXSoJW8j677EEhNqJQzuBbpS17mFrXEPUV17iRpCe-Vtgme21rgnxwLD290amrNQCUNjgBicj7CWT24tWtOdAoytR2lWv8?fife=s16383"
+      ],
+      "description": "פריחה: ינואר–מרץ\nחניון אלוני אבא"
+    },
+    {
+      "id": 64,
+      "lat": 32.4282605,
+      "lng": 34.8784162,
+      "species": {
+        "he": "אירוסים",
+        "en": "Irises"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "פברואר–מרץ",
+        "en": "February–March"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjYOX76YuaKtl-SDwd4Sp6OPez2wz8tZo-ELxOuCKJMvgvN6iiHSrE5UVITmODfxJmYq2P2BFFX1B6u8Hhw7y-zxdLSEznqgU7InE9SG60_V0KkYU4qC1lbww0Kz6odveV7g40jhKil4MywjAJTWVjBPsXg8Ugezc7Q447zEVEBFdcpIBPU6w1VmcAGIEZQWVz5J9X_9bjcevE8jYAWXPPM0XNOLwcCH451YiZ5RFzDu7VYDQblKLEh270?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjYOX76YuaKtl-SDwd4Sp6OPez2wz8tZo-ELxOuCKJMvgvN6iiHSrE5UVITmODfxJmYq2P2BFFX1B6u8Hhw7y-zxdLSEznqgU7InE9SG60_V0KkYU4qC1lbww0Kz6odveV7g40jhKil4MywjAJTWVjBPsXg8Ugezc7Q447zEVEBFdcpIBPU6w1VmcAGIEZQWVz5J9X_9bjcevE8jYAWXPPM0XNOLwcCH451YiZ5RFzDu7VYDQblKLEh270?fife=s16383"
+      ],
+      "description": "פריחה: פברואר - מרץ\nצמוד לחוף גדור"
+    },
+    {
+      "id": 65,
+      "lat": 32.1657297,
+      "lng": 34.9148473,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "מרכז הארץ",
+        "en": "Central Israel"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhzssoWv93jdWyWwYsG1vFFdl7PmEHd4XY3KsurHspJ4v1_6Vcc996s6Cip8ddUx2guqoOiwM6mxWsiqGMFCAWhSeCLboLjnIWvqM9vlwlgE4Lcp4YjjcLFDg97LfKs_SXghKAnhKq9VFUiWCoLwiReQvhfdgcbB5utMkjgCgToch1udu4Gx-1SY-HMgUkM1LXbaIdMeLdRBNnO-T82zmgZkM3D79Pi4MQ2RyY07eykTkRXF7c5OZ522t0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhzssoWv93jdWyWwYsG1vFFdl7PmEHd4XY3KsurHspJ4v1_6Vcc996s6Cip8ddUx2guqoOiwM6mxWsiqGMFCAWhSeCLboLjnIWvqM9vlwlgE4Lcp4YjjcLFDg97LfKs_SXghKAnhKq9VFUiWCoLwiReQvhfdgcbB5utMkjgCgToch1udu4Gx-1SY-HMgUkM1LXbaIdMeLdRBNnO-T82zmgZkM3D79Pi4MQ2RyY07eykTkRXF7c5OZ522t0?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים וחרציות לייד הרכבת"
+    },
+    {
+      "id": 66,
+      "lat": 31.8992902,
+      "lng": 34.7835516,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjdTab8u8AMOtNEnNFuhSrGDdzaz3uIpRCsAuuzQu8MMvRErwvj6xTlcxyu9wAPgAELBhye1n4sLuOA3DZSoWIManV17F-xCPwOM_F10uNvdpt2-SiCg5yIfYz9vvfEYxS3bnFIr5ZjHmU-VRky0ZErAFpZnuENwRF0h6OozlMf4xqIK_XkLWcXyj3uJEdLxluCnsZJKChfclD8oRzIDjThIQ1lRHaM4nmKsulAXMr7bUn2tukY9unZ1W8?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjdTab8u8AMOtNEnNFuhSrGDdzaz3uIpRCsAuuzQu8MMvRErwvj6xTlcxyu9wAPgAELBhye1n4sLuOA3DZSoWIManV17F-xCPwOM_F10uNvdpt2-SiCg5yIfYz9vvfEYxS3bnFIr5ZjHmU-VRky0ZErAFpZnuENwRF0h6OozlMf4xqIK_XkLWcXyj3uJEdLxluCnsZJKChfclD8oRzIDjThIQ1lRHaM4nmKsulAXMr7bUn2tukY9unZ1W8?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים וחרציות בין רחובות לנס ציונה"
+    },
+    {
+      "id": 67,
+      "lat": 31.9030044,
+      "lng": 34.7837554,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZijZnFGgNFGWnVyNHr3njlsth9Sktxe73de2_wkhN3-3jcviszlaK6zjMxgGDD-qrGTvQn-qENGUQBXOxHXuXTihI6e5CTNnzBbjA7g3Fuhd14ojtFDze0qq0bR0ILAfzE8jOUcv-SVtlSi9hGukSWR_reAOjhvAv68rtHFpR48Mk40MwTNkyxehWrCmKTdlPhRDy1tLekbkhWLH7I83J6cSTWJDjoYEavb107NhOaUYJ4JV5QEmhxTS2c?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZijZnFGgNFGWnVyNHr3njlsth9Sktxe73de2_wkhN3-3jcviszlaK6zjMxgGDD-qrGTvQn-qENGUQBXOxHXuXTihI6e5CTNnzBbjA7g3Fuhd14ojtFDze0qq0bR0ILAfzE8jOUcv-SVtlSi9hGukSWR_reAOjhvAv68rtHFpR48Mk40MwTNkyxehWrCmKTdlPhRDy1tLekbkhWLH7I83J6cSTWJDjoYEavb107NhOaUYJ4JV5QEmhxTS2c?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nפריחת פרגים וחרציות בין רחובות לנס ציונה"
+    },
+    {
+      "id": 68,
+      "lat": 32.5889243,
+      "lng": 35.036524,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh-2Xh_hu0sohQ5VWhnQzF0MWSeTFcd3KE820bHwniMXTKaet6I3TqNSPS06hx_w7XxENUVl9vAJNhwqbwlOvNYCv0q5S_EdDHaNIZu9KmM7om25oKn9sQiEAZIY-0SMOSElASPeuF9H-sJK87rv9JtaadSrK2x3H-KDssENqvneh_zD8avtB-o_HlhxmONNfDBwvabfaYN6-1nfiQruJ5ufoG40DhFAHkyv_4gHkHuPzsv9v0GTcPsX74?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh-2Xh_hu0sohQ5VWhnQzF0MWSeTFcd3KE820bHwniMXTKaet6I3TqNSPS06hx_w7XxENUVl9vAJNhwqbwlOvNYCv0q5S_EdDHaNIZu9KmM7om25oKn9sQiEAZIY-0SMOSElASPeuF9H-sJK87rv9JtaadSrK2x3H-KDssENqvneh_zD8avtB-o_HlhxmONNfDBwvabfaYN6-1nfiQruJ5ufoG40DhFAHkyv_4gHkHuPzsv9v0GTcPsX74?fife=s16383"
+      ],
+      "description": "פריחה: פברואה-אפריל\nמול עץ הברוש הענק"
+    },
+    {
+      "id": 69,
+      "lat": 32.4992405,
+      "lng": 34.8989479,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZguQHh4OsAGFWwtxvvkE6H7sjf1XfuWIetgxocsoVQJxoP8Sm7VEwpZAJq6ekyjm5a0OwYDCX3MyvAl627GaK2RdEZFozAo7aTZ8Cj3aWqZkg4EVxJM-0Ow-2_RG3nlKvKFPj2QLcPXj5crv51gbMI2yK6W1W3bhzmWOWCnlHahOrRlJJwtTFy1whhbYt80oearQ8rUS8sHboy9uPaVvcPkQUnNloRmuB3PK49bsNf5zS6aOEDqTbSAoWo?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZguQHh4OsAGFWwtxvvkE6H7sjf1XfuWIetgxocsoVQJxoP8Sm7VEwpZAJq6ekyjm5a0OwYDCX3MyvAl627GaK2RdEZFozAo7aTZ8Cj3aWqZkg4EVxJM-0Ow-2_RG3nlKvKFPj2QLcPXj5crv51gbMI2yK6W1W3bhzmWOWCnlHahOrRlJJwtTFy1whhbYt80oearQ8rUS8sHboy9uPaVvcPkQUnNloRmuB3PK49bsNf5zS6aOEDqTbSAoWo?fife=s16383"
+      ],
+      "description": "פריחה בפרואר-אפריל\nהאובליסק בהיפודרום המזרחי, קיסריה"
+    },
+    {
+      "id": 70,
+      "lat": 31.8117502,
+      "lng": 34.9811648,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgWpcCH-f2oZ1T4O8YLv5ZFT_uz6JRmpviV0FWg9Kel_WeK4UJ5PcUNRSKJCLQDsPixc6aeGgkBt9ByLUX0D_3LRjDOyVIshpS0OTQVcGP0b4Z4cONvQVmIzRjAqAeE03kjkQxQsBEsWKek-CWFFx93qAGCY1EXoKtc_0ATULK-Qd34w_H-gWrzwK-Ak3jSnUgS_90hF8N-n2rxinPCR-XfmEFtybcbEoEJ30XhWaO4g-Uskm0Sk4fecVY?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgWpcCH-f2oZ1T4O8YLv5ZFT_uz6JRmpviV0FWg9Kel_WeK4UJ5PcUNRSKJCLQDsPixc6aeGgkBt9ByLUX0D_3LRjDOyVIshpS0OTQVcGP0b4Z4cONvQVmIzRjAqAeE03kjkQxQsBEsWKek-CWFFx93qAGCY1EXoKtc_0ATULK-Qd34w_H-gWrzwK-Ak3jSnUgS_90hF8N-n2rxinPCR-XfmEFtybcbEoEJ30XhWaO4g-Uskm0Sk4fecVY?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nעל דרך בורמה בצידי הדרך"
+    },
+    {
+      "id": 71,
+      "lat": 31.7538098,
+      "lng": 34.9638565,
+      "species": {
+        "he": "פרגים",
+        "en": "Poppies"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "מרץ–מאי",
+        "en": "March–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh5jhRGqV3gixD8RFcfQry4sF07wJRfsr8b2sFJ9kibA24KI2qQ2XhUoIQh2XQNCdsCBNKmx5LN8SghndO5PmqQHsgvHmHnzLj0LF3Z2_LSr-rO-Ctn1HQO1u4jLstqVMBo5syNc4bnymvLnA5Zp2nQPWD7-ZP4cY29Eg6KEeqlQD9XPrv-CPQxcyL0cOpIS0QpR6bE46Bm_ZDOKhQ1JwbX2fN-SdXS2v2C4GiZfvwvOHG65wnm33YxFws?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh5jhRGqV3gixD8RFcfQry4sF07wJRfsr8b2sFJ9kibA24KI2qQ2XhUoIQh2XQNCdsCBNKmx5LN8SghndO5PmqQHsgvHmHnzLj0LF3Z2_LSr-rO-Ctn1HQO1u4jLstqVMBo5syNc4bnymvLnA5Zp2nQPWD7-ZP4cY29Eg6KEeqlQD9XPrv-CPQxcyL0cOpIS0QpR6bE46Bm_ZDOKhQ1JwbX2fN-SdXS2v2C4GiZfvwvOHG65wnm33YxFws?fife=s16383"
+      ],
+      "description": "פריחה: מרץ - אפריל\nעל דרך בורמה בצידי הדרך"
+    },
+    {
+      "id": 72,
+      "lat": 32.9992475,
+      "lng": 35.4091465,
+      "species": {
+        "he": "אדמונית החורש",
+        "en": "Peony"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אפריל",
+        "en": "April"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg36uD-hcLTwWFArz54IvIrihL34Tm-cJ50YarPYkEO9U4TxIf8FHUk1hSFRXzaO_RXtUYSf45F6gU4aw3eVYXkIUQbAa8SiBLwh0Qk1Uz3QyJXLMp7MBWs7d4Cjju2FWfH1bNWNR-4EUc-OFsuzN5xn-_EPLZ-lGsnELmfmRqA7mS3zs495dhVTg4-Xadti9slxx7SRa6nr4Gtrrkvz4RFoC5HsAxAIozlDI_MmwXuBbPxv6376G7NdH4?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg36uD-hcLTwWFArz54IvIrihL34Tm-cJ50YarPYkEO9U4TxIf8FHUk1hSFRXzaO_RXtUYSf45F6gU4aw3eVYXkIUQbAa8SiBLwh0Qk1Uz3QyJXLMp7MBWs7d4Cjju2FWfH1bNWNR-4EUc-OFsuzN5xn-_EPLZ-lGsnELmfmRqA7mS3zs495dhVTg4-Xadti9slxx7SRa6nr4Gtrrkvz4RFoC5HsAxAIozlDI_MmwXuBbPxv6376G7NdH4?fife=s16383"
+      ],
+      "description": "פריחה אפריל-מאי"
+    },
+    {
+      "id": 73,
+      "lat": 32.9631077,
+      "lng": 35.3980914,
+      "species": {
+        "he": "אדמונית החורש",
+        "en": "Peony"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אפריל",
+        "en": "April"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi8x1u5TYmFz9kxKoTDsGGtWCwSghOzy6hZ0omefyLQFKlutH0JyFm3nkn3nPzESe1Ma-i7Z--lSnhM2JNn6bTR5U3MzcY-SmteCIH9ryrHp5aKv9ZywQAeybfplHnEy5R8obEUEuI2MiIqIs0XkzKYVqCWc_3EhVTL-VWyKd3pXnZnuKH6JlbCnRBQ04BSgYK1DkvylP6fNjC__7OGn8djHCAhm6OWtk-e9SEXmhJpRk7ZF1CL6a-rmM0?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi8x1u5TYmFz9kxKoTDsGGtWCwSghOzy6hZ0omefyLQFKlutH0JyFm3nkn3nPzESe1Ma-i7Z--lSnhM2JNn6bTR5U3MzcY-SmteCIH9ryrHp5aKv9ZywQAeybfplHnEy5R8obEUEuI2MiIqIs0XkzKYVqCWc_3EhVTL-VWyKd3pXnZnuKH6JlbCnRBQ04BSgYK1DkvylP6fNjC__7OGn8djHCAhm6OWtk-e9SEXmhJpRk7ZF1CL6a-rmM0?fife=s16383"
+      ],
+      "description": "לייד אנדרטה לזכר אימן קיס בית ג'ן\nפריחה אפריל-מאי"
+    },
+    {
+      "id": 74,
+      "lat": 32.7430436,
+      "lng": 35.0233412,
+      "species": {
+        "he": "שושן צחור",
+        "en": "White Lily"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "אפריל–מאי",
+        "en": "April–May"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiYXEdzTKwfvJKtR23mTukeUlqP9X3w07hFdercvLASTFRArtr3eV0iqbjM3rISScQTjiNYJUH_2F-F22HlSKktVCzsYZEQ38ipoU9UNPFxue14ZS5EYwLMSusX6mBVCuOn49MU5eL8gAyTTt2DhdRI0qYvOimUOYKb4Zib6Cmew3-UdF6-yP9Rjp0L2isw7ACtX8ailPX4KZpT4SE9F_O-_8I8C4W6VtbY3BUgOGYSfNU_ye1vmSh_AcA?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiYXEdzTKwfvJKtR23mTukeUlqP9X3w07hFdercvLASTFRArtr3eV0iqbjM3rISScQTjiNYJUH_2F-F22HlSKktVCzsYZEQ38ipoU9UNPFxue14ZS5EYwLMSusX6mBVCuOn49MU5eL8gAyTTt2DhdRI0qYvOimUOYKb4Zib6Cmew3-UdF6-yP9Rjp0L2isw7ACtX8ailPX4KZpT4SE9F_O-_8I8C4W6VtbY3BUgOGYSfNU_ye1vmSh_AcA?fife=s16383"
+      ],
+      "description": "על השביל האדום, מצד ימין בעליה"
+    },
+    {
+      "id": 75,
+      "lat": 31.8321916,
+      "lng": 34.6999165,
+      "species": {
+        "he": "חמנייה",
+        "en": "חמנייה"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "כל השנה",
+        "en": "Year-round"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgNscijxq3nOWEyFaB-ninYH3Xn-x1pICp0Ic2_V2IxHBrM26ZdFlihssCubcXoixhPt6EkqNwnM5mu5eFEAsmF2fOYGTGtcykEaDClgAjYuFREIbjkR2GdubOAJNulgExw3jVPPkQ6LR0kn5N0a-qsRBX2cLlA_mcsCmSOkaDV6tB6aX51L-qBDF408sUWuJ8Tc9Q2mkUbqVyEShFt7UkozDoVDzry1dEX817x3wVxxDp19hXM2eqbi44?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgNscijxq3nOWEyFaB-ninYH3Xn-x1pICp0Ic2_V2IxHBrM26ZdFlihssCubcXoixhPt6EkqNwnM5mu5eFEAsmF2fOYGTGtcykEaDClgAjYuFREIbjkR2GdubOAJNulgExw3jVPPkQ6LR0kn5N0a-qsRBX2cLlA_mcsCmSOkaDV6tB6aX51L-qBDF408sUWuJ8Tc9Q2mkUbqVyEShFt7UkozDoVDzry1dEX817x3wVxxDp19hXM2eqbi44?fife=s16383"
+      ],
+      "description": "שדה זרוע חמניות 21.5.26 מול חברת חשמל אשדוד"
+    },
+    {
+      "id": 76,
+      "lat": 31.7102351,
+      "lng": 34.7441736,
+      "species": {
+        "he": "חמנייה",
+        "en": "חמנייה"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "כל השנה",
+        "en": "Year-round"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhLWXkyDoPt1GxmEE4CET5xggffebnTps3YMOOMy273KqWIO3qpymlcD8yX_YAkLbUMr68AclYEHCKst7jB3Xpakko7NZSTuzEVdnVYA1cDmM84BIOJ-fP1FicwYsmcc1okaq6ev_yVJ7hAxpKQQKwfgYUxyL-DzRgtb876XsxLiokqck_q2yjIO3Jb0XTu6GL3MgW1oBO67_QwPcI-SVUDh3f6po5NVb4mJzhLt5soDS_g6kUC-WTgzUU?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhLWXkyDoPt1GxmEE4CET5xggffebnTps3YMOOMy273KqWIO3qpymlcD8yX_YAkLbUMr68AclYEHCKst7jB3Xpakko7NZSTuzEVdnVYA1cDmM84BIOJ-fP1FicwYsmcc1okaq6ev_yVJ7hAxpKQQKwfgYUxyL-DzRgtb876XsxLiokqck_q2yjIO3Jb0XTu6GL3MgW1oBO67_QwPcI-SVUDh3f6po5NVb4mJzhLt5soDS_g6kUC-WTgzUU?fife=s16383"
+      ],
+      "description": "פריחה: מאי - יוני 23.5.26\nקטיף חמניות בתוך מושב אביגדור"
+    },
+    {
+      "id": 77,
+      "lat": 31.8321039,
+      "lng": 34.9617115,
+      "species": {
+        "he": "חמנייה",
+        "en": "חמנייה"
+      },
+      "location": {
+        "he": "הרי ירושלים",
+        "en": "Jerusalem Hills"
+      },
+      "season": {
+        "he": "כל השנה",
+        "en": "Year-round"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi9lrtIEBUFQowdhieUkx8qCAI4fiUXxrhIVEa2OQpQx75JdhQfO6bXy8ZjKHQUcIMnZoBSxxISKPdDkKnRY9Zx3Hd3IWt7zc568R2Rg3herHfUcoYrX8FWdEZNqCV1Bkln9RucPNsN9LIiTnpHUSHFZXWLG-2TkR2C3p7GPr3wGOImo6jcHR0hYaGBvfTD2QRJtDkgQt6PBD3mz38CKpp8xyd1R42KaEfScNxLQt7j0e5vGcT4Cuz1J74?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi9lrtIEBUFQowdhieUkx8qCAI4fiUXxrhIVEa2OQpQx75JdhQfO6bXy8ZjKHQUcIMnZoBSxxISKPdDkKnRY9Zx3Hd3IWt7zc568R2Rg3herHfUcoYrX8FWdEZNqCV1Bkln9RucPNsN9LIiTnpHUSHFZXWLG-2TkR2C3p7GPr3wGOImo6jcHR0hYaGBvfTD2QRJtDkgQt6PBD3mz38CKpp8xyd1R42KaEfScNxLQt7j0e5vGcT4Cuz1J74?fife=s16383"
+      ],
+      "description": "פריחת חמניות מאי - יוני 23.5.26 בכניסה לקיבוץ נחשון"
+    },
+    {
+      "id": 78,
+      "lat": 32.6874121,
+      "lng": 35.1437104,
+      "species": {
+        "he": "חמנייה",
+        "en": "חמנייה"
+      },
+      "location": {
+        "he": "עמק יזרעאל",
+        "en": "Jezreel Valley"
+      },
+      "season": {
+        "he": "כל השנה",
+        "en": "Year-round"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiVX0ftH-suzbITfsfmJVfZkbegtyMFbuBvcDC0Dt1pHMU8I6977hvzfCSoZ8ycUtvpfcnTtnPqI8xJnGJCXanZUu_fQGcj-lNuCTiBv59aWQXirP48tHTYjS4nR0tEJcevKNdFT5IhzfHMIlUMQ9sD28yuF2ZBm6iTLLXRN2olzrlXvUqXhNKrSc5U6vgkeNNCkNQv44ZI3e52sJ0xwOmWz1hIiT6Yez5zgqKiQdf3GDNpV7S0AsC_Pss?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiVX0ftH-suzbITfsfmJVfZkbegtyMFbuBvcDC0Dt1pHMU8I6977hvzfCSoZ8ycUtvpfcnTtnPqI8xJnGJCXanZUu_fQGcj-lNuCTiBv59aWQXirP48tHTYjS4nR0tEJcevKNdFT5IhzfHMIlUMQ9sD28yuF2ZBm6iTLLXRN2olzrlXvUqXhNKrSc5U6vgkeNNCkNQv44ZI3e52sJ0xwOmWz1hIiT6Yez5zgqKiQdf3GDNpV7S0AsC_Pss?fife=s16383"
+      ],
+      "description": "בתוך שדות שדה יעקב פריחה מאי-יולי"
+    },
+    {
+      "id": 79,
+      "lat": 32.7774325,
+      "lng": 35.0512689,
+      "species": {
+        "he": "חמנייה",
+        "en": "חמנייה"
+      },
+      "location": {
+        "he": "גליל תחתון",
+        "en": "Lower Galilee"
+      },
+      "season": {
+        "he": "כל השנה",
+        "en": "Year-round"
+      },
+      "image": "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhw8A8WszMEQD6LOC02IWO4fFLNdku8GeJDKhX6xMFz4fxe5kufqzgJu7-ZxyMUKZYyztF_3_k-08S2eeqcQjNmTH0_STRK4whlRrTAuL1mm-KVEkln2mmdnPaaDjTBytL2CF7vvyQZWWiUTRDqUMnj2g_BWlu03Vce10685Gr1zEXOa7j5YabDNIf-C_7p0ENXd1G2iBECeFiUXdqpAi6RU8_QsiMjELkWJZxRZ1ogKUCdzKDUPI06HvQ?fife=s16383",
+      "images": [
+        "https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhw8A8WszMEQD6LOC02IWO4fFLNdku8GeJDKhX6xMFz4fxe5kufqzgJu7-ZxyMUKZYyztF_3_k-08S2eeqcQjNmTH0_STRK4whlRrTAuL1mm-KVEkln2mmdnPaaDjTBytL2CF7vvyQZWWiUTRDqUMnj2g_BWlu03Vce10685Gr1zEXOa7j5YabDNIf-C_7p0ENXd1G2iBECeFiUXdqpAi6RU8_QsiMjELkWJZxRZ1ogKUCdzKDUPI06HvQ?fife=s16383"
+      ],
+      "description": "פריחת חמניות בשדות מול נשר, פריחה: מאי-יולי"
+    }
+  ]
+}
